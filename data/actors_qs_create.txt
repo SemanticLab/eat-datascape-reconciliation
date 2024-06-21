@@ -1,0 +1,6006 @@
+CREATE
+LAST|Len|"Carl Adams"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/0"
+LAST|P245|"actor/0"
+CREATE
+LAST|Len|"Edward Adams"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/1"
+LAST|P245|"actor/1"
+CREATE
+LAST|Len|"Tadanori Akiyama"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/3"
+LAST|P245|"actor/3"
+CREATE
+LAST|Len|"Melynda Albrecht"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/4"
+LAST|P245|"actor/4"
+CREATE
+LAST|Len|"Stephen Antonakos"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/7"
+LAST|P245|"actor/7"
+CREATE
+LAST|Len|"T. Asada"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/9"
+LAST|P245|"actor/9"
+CREATE
+LAST|Len|"Michel Auder"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/11"
+LAST|P245|"actor/11"
+CREATE
+LAST|Len|"Kiyoshi Awazu"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/12"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/12"
+LAST|P245|"actor/12"
+CREATE
+LAST|Len|"Teruo Baba"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/13"
+LAST|P245|"actor/13"
+CREATE
+LAST|Len|"Karen Bacon"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/14"
+LAST|P245|"actor/14"
+CREATE
+LAST|Len|"F. Bailey"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/15"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/15"
+LAST|P245|"actor/15"
+CREATE
+LAST|Len|"Bo Beck"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/18"
+LAST|P245|"actor/18"
+CREATE
+LAST|Len|"Joseph Block"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/21"
+LAST|P245|"actor/21"
+CREATE
+LAST|Len|"Bruce Blugerman"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/22"
+LAST|P245|"actor/22"
+CREATE
+LAST|Len|"Lee Bontecou"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/23"
+LAST|P245|"actor/23"
+CREATE
+LAST|Len|"George Brecht"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/24"
+LAST|P245|"actor/24"
+CREATE
+LAST|Len|"Herbert Brill"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/28"
+LAST|P245|"actor/28"
+CREATE
+LAST|Len|"Sy Brockway"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/29"
+LAST|P245|"actor/29"
+CREATE
+LAST|Len|"George Carr"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/37"
+LAST|P245|"actor/37"
+CREATE
+LAST|Len|"John Chamberlain"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/40"
+LAST|P245|"actor/40"
+CREATE
+LAST|Len|"Chandralekha"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/41"
+LAST|P245|"actor/41"
+CREATE
+LAST|Len|"Robert Cheney"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/43"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/43"
+LAST|P245|"actor/43"
+CREATE
+LAST|Len|"Mimi Clementi"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/45"
+LAST|P245|"actor/45"
+CREATE
+LAST|Len|"Richard Collins"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/47"
+LAST|P245|"actor/47"
+CREATE
+LAST|Len|"Ralph Cooper"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/48"
+LAST|P245|"actor/48"
+CREATE
+LAST|Len|"Robert Cox"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/49"
+LAST|P245|"actor/49"
+CREATE
+LAST|Len|"Robert Creeley"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/50"
+LAST|P245|"actor/50"
+CREATE
+LAST|Len|"David Davis"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/55"
+LAST|P245|"actor/55"
+CREATE
+LAST|Len|"Jeff Davis"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/56"
+LAST|P245|"actor/56"
+CREATE
+LAST|Len|"Chris Dawson"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/58"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/58"
+LAST|P245|"actor/58"
+CREATE
+LAST|Len|"Emile De Antonio"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/59"
+LAST|P245|"actor/59"
+CREATE
+LAST|Len|"Harriet DeLong"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/60"
+LAST|P245|"actor/60"
+CREATE
+LAST|Len|"Walter De Maria"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/62"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/62"
+LAST|P245|"actor/62"
+CREATE
+LAST|Len|"Richard Demierre"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/63"
+LAST|P245|"actor/63"
+CREATE
+LAST|Len|"Cronin Dermott"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/64"
+LAST|P245|"actor/64"
+CREATE
+LAST|Len|"Carlos De Sola"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/65"
+LAST|P245|"actor/65"
+CREATE
+LAST|Len|"Kaaba Dijon"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/67"
+LAST|P245|"actor/67"
+CREATE
+LAST|Len|"Ted Dillenkofer"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/68"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/68"
+LAST|P245|"actor/68"
+CREATE
+LAST|Len|"Mark Di Suvero"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/70"
+LAST|P245|"actor/70"
+CREATE
+LAST|Len|"Tadashi Doi"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/71"
+LAST|P245|"actor/71"
+CREATE
+LAST|Len|"Julie Doty"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/73"
+LAST|P245|"actor/73"
+CREATE
+LAST|Len|"Régis Durand"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/75"
+LAST|P245|"actor/75"
+CREATE
+LAST|Len|"George Edwards"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/76"
+LAST|P245|"actor/76"
+CREATE
+LAST|Len|"Kazukuki Eguchi"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/77"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/77"
+LAST|P245|"actor/77"
+CREATE
+LAST|Len|"Lewis Ellmore"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/80"
+LAST|P245|"actor/80"
+CREATE
+LAST|Len|"Beverly Emmons"
+LAST|P1|Q1
+LAST|Den|"designer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/81"
+LAST|P245|"actor/81"
+CREATE
+LAST|Len|"Roger Epworth"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/82"
+LAST|P245|"actor/82"
+CREATE
+LAST|Len|"Thomas Fabry"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/83"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/83"
+LAST|P245|"actor/83"
+CREATE
+LAST|Len|"Jacquelyn Farrell"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/86"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/86"
+LAST|P245|"actor/86"
+CREATE
+LAST|Len|"Roger Ferragallo"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/87"
+LAST|P245|"actor/87"
+CREATE
+LAST|Len|"Bill Finley"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/88"
+LAST|P245|"actor/88"
+CREATE
+LAST|Len|"Toby Fitch"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/89"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/89"
+LAST|P245|"actor/89"
+CREATE
+LAST|Len|"John Forkner"
+LAST|P1|Q1
+LAST|Den|"artist engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/92"
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/92"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/92"
+LAST|P245|"actor/92"
+CREATE
+LAST|Len|"Hollis Frampton"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/94"
+LAST|P245|"actor/94"
+CREATE
+LAST|Len|"Karl Erik Friberg"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/95"
+LAST|P245|"actor/95"
+CREATE
+LAST|Len|"Mariko Fujii"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/96"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/96"
+LAST|P245|"actor/96"
+CREATE
+LAST|Len|"Ikuo Fujita"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/97"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/97"
+LAST|P245|"actor/97"
+CREATE
+LAST|Len|"Tsutomu Fujiwara"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/98"
+LAST|P245|"actor/98"
+CREATE
+LAST|Len|"Walter Gelb"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/100"
+LAST|P245|"actor/100"
+CREATE
+LAST|Len|"Alphonsus Grant"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/108"
+LAST|P245|"actor/108"
+CREATE
+LAST|Len|"Nancy Graves"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/109"
+LAST|P245|"actor/109"
+CREATE
+LAST|Len|"Ann Halprin"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/112"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/112"
+LAST|P245|"actor/112"
+CREATE
+LAST|Len|"Takeshi Hanasaka"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/113"
+LAST|P245|"actor/113"
+CREATE
+LAST|Len|"Jim Hardy"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/114"
+LAST|P245|"actor/114"
+CREATE
+LAST|Len|"Leon D. Harmon"
+LAST|P1|Q1
+LAST|Den|"researcher professor engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/115"
+LAST|P44|Q24692|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/115"
+LAST|P44|Q23889|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/115"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/115"
+LAST|P245|"actor/115"
+CREATE
+LAST|Len|"Harry Harper"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/116"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/116"
+LAST|P245|"actor/116"
+CREATE
+LAST|Len|"Cyril Harris"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/117"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/117"
+LAST|P245|"actor/117"
+CREATE
+LAST|Len|"John Harris"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/118"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/118"
+LAST|P245|"actor/118"
+CREATE
+LAST|Len|"Susan Hartnett"
+LAST|P1|Q1
+LAST|Den|"assistant"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/121"
+LAST|P245|"actor/121"
+CREATE
+LAST|Len|"Paul Hasigawa"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/122"
+LAST|P245|"actor/122"
+CREATE
+LAST|Len|"Richard Haymes"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/125"
+LAST|P245|"actor/125"
+CREATE
+LAST|Len|"Takumi Hijikata"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/130"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/130"
+LAST|P245|"actor/130"
+CREATE
+LAST|Len|"Yoshiyuki Hijikata"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/131"
+LAST|P245|"actor/131"
+CREATE
+LAST|Len|"Sebastian Hiraga"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/132"
+LAST|P245|"actor/132"
+CREATE
+LAST|Len|"James Hobart"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/134"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/134"
+LAST|P245|"actor/134"
+CREATE
+LAST|Len|"Ralph Hocking"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/135"
+LAST|P245|"actor/135"
+CREATE
+LAST|Len|"Tony Holder"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/137"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/137"
+LAST|P245|"actor/137"
+CREATE
+LAST|Len|"Terrie Holland"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/138"
+LAST|P245|"actor/138"
+CREATE
+LAST|Len|"Cassandra Hughs"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/139"
+LAST|P245|"actor/139"
+CREATE
+LAST|Len|"Pontus Hulten"
+LAST|P1|Q1
+LAST|Den|"curator manager"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q24406|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/140"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/140"
+LAST|P245|"actor/140"
+CREATE
+LAST|Len|"Thomas Huseby"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/141"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/141"
+LAST|P245|"actor/141"
+CREATE
+LAST|Len|"Harris Hyman"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/142"
+LAST|P245|"actor/142"
+CREATE
+LAST|Len|"Philip Idone"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/144"
+LAST|P245|"actor/144"
+CREATE
+LAST|Len|"Khalil Issa"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/145"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/145"
+LAST|P245|"actor/145"
+CREATE
+LAST|Len|"Carson Jeffries"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/148"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/148"
+LAST|P245|"actor/148"
+CREATE
+LAST|Len|"James Jiusto"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/149"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/149"
+LAST|P245|"actor/149"
+CREATE
+LAST|Len|"Dennis Johnson"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/151"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/151"
+LAST|P245|"actor/151"
+CREATE
+LAST|Len|"Joan Jonas"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/152"
+LAST|P245|"actor/152"
+CREATE
+LAST|Len|"Howard Jones"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/153"
+LAST|P245|"actor/153"
+CREATE
+LAST|Len|"Elizabeth Joyce"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/154"
+LAST|P245|"actor/154"
+CREATE
+LAST|Len|"Nancy Kahan"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/157"
+LAST|P245|"actor/157"
+CREATE
+LAST|Len|"Toyohisa Kamei"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/158"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/158"
+LAST|P245|"actor/158"
+CREATE
+LAST|Len|"Perry Keats"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/162"
+LAST|P245|"actor/162"
+CREATE
+LAST|Len|"Robert Kelly"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/164"
+LAST|P245|"actor/164"
+CREATE
+LAST|Len|"Donald M. Kendall"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/165"
+LAST|P245|"actor/165"
+CREATE
+LAST|Len|"? Kender"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/166"
+LAST|P245|"actor/166"
+CREATE
+LAST|Len|"Robert V. Kieronski"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/168"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/168"
+LAST|P245|"actor/168"
+CREATE
+LAST|Len|"Kenneth C. Knowlton"
+LAST|P1|Q1
+LAST|Den|"artist engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/171"
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/171"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/171"
+LAST|P245|"actor/171"
+CREATE
+LAST|Len|"Asahi Kogyo"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/172"
+LAST|P245|"actor/172"
+CREATE
+LAST|Len|"Etsuji Komoguchi"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/173"
+LAST|P245|"actor/173"
+CREATE
+LAST|Len|"Jane Kramer"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/175"
+LAST|P245|"actor/175"
+CREATE
+LAST|Len|"Peter Kubik"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/178"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/178"
+LAST|P245|"actor/178"
+CREATE
+LAST|Len|"Tatsuo Kubo"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/179"
+LAST|P245|"actor/179"
+CREATE
+LAST|Len|"Penelope Kullaway"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/180"
+LAST|P245|"actor/180"
+CREATE
+LAST|Len|"Hideo Kuraishi"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/181"
+LAST|P245|"actor/181"
+CREATE
+LAST|Len|"Fumio Kuwahara"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/183"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/183"
+LAST|P245|"actor/183"
+CREATE
+LAST|Len|"Frank La Haye"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/184"
+LAST|P245|"actor/184"
+CREATE
+LAST|Len|"Stanley Landsman"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/186"
+LAST|P245|"actor/186"
+CREATE
+LAST|Len|"Anne-Olivia Le Cornec"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/188"
+LAST|P245|"actor/188"
+CREATE
+LAST|Len|"Sol LeWitt"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/191"
+LAST|P245|"actor/191"
+CREATE
+LAST|Len|"Robert Lippman"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/194"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/194"
+LAST|P245|"actor/194"
+CREATE
+LAST|Len|"Norma Loewen"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/197"
+LAST|P245|"actor/197"
+CREATE
+LAST|Len|"Lynn Lonidier"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/198"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/198"
+LAST|P245|"actor/198"
+CREATE
+LAST|Len|"Denny Lord"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/199"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/199"
+LAST|P245|"actor/199"
+CREATE
+LAST|Len|"Alvin Lucier"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/200"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/200"
+LAST|P245|"actor/200"
+CREATE
+LAST|Len|"Mary Lucier"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/201"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/201"
+LAST|P245|"actor/201"
+CREATE
+LAST|Len|"Len Lye"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/202"
+LAST|P245|"actor/202"
+CREATE
+LAST|Len|"Yutaka Maeda"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/205"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/205"
+LAST|P245|"actor/205"
+CREATE
+LAST|Len|"Gloria Malerba"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/207"
+LAST|P245|"actor/207"
+CREATE
+LAST|Len|"Ellen Marcus"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/208"
+LAST|P245|"actor/208"
+CREATE
+LAST|Len|"Marisol"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/209"
+LAST|P245|"actor/209"
+CREATE
+LAST|Len|"Agnes Martin"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/210"
+LAST|P245|"actor/210"
+CREATE
+LAST|Len|"Anthony Martin"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/211"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/211"
+LAST|P245|"actor/211"
+CREATE
+LAST|Len|"Petrie Mason"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/213"
+LAST|P245|"actor/213"
+CREATE
+LAST|Len|"Kiyoshi Masuda"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/214"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/214"
+LAST|P245|"actor/214"
+CREATE
+LAST|Len|"Mizuho Masuda"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/215"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/215"
+LAST|P245|"actor/215"
+CREATE
+LAST|Len|"Ravi Matthai"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/218"
+LAST|P245|"actor/218"
+CREATE
+LAST|Len|"Robert McFarland"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/219"
+LAST|P245|"actor/219"
+CREATE
+LAST|Len|"Lys McLaughlin"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/221"
+LAST|P245|"actor/221"
+CREATE
+LAST|Len|"Boyd Mefferd"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/224"
+LAST|P245|"actor/224"
+CREATE
+LAST|Len|"Robert Merkle"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/225"
+LAST|P245|"actor/225"
+CREATE
+LAST|Len|"Theodore Michel"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/226"
+LAST|P245|"actor/226"
+CREATE
+LAST|Len|"Yoshiaki Mihara"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/227"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/227"
+LAST|P245|"actor/227"
+CREATE
+LAST|Len|"Y. Mitsuda"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/229"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/229"
+LAST|P245|"actor/229"
+CREATE
+LAST|Len|"Yasushi Mitsuta"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/230"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/230"
+LAST|P245|"actor/230"
+CREATE
+LAST|Len|"Rikuro Miyai"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/231"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/231"
+LAST|P245|"actor/231"
+CREATE
+LAST|Len|"K. Mizumoto"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/232"
+LAST|P245|"actor/232"
+CREATE
+LAST|Len|"Robert Moog"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/234"
+LAST|P245|"actor/234"
+CREATE
+LAST|Len|"Russell Mooney"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/235"
+LAST|P245|"actor/235"
+CREATE
+LAST|Len|"Robert Morris"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/236"
+LAST|P245|"actor/236"
+CREATE
+LAST|Len|"Norma Muller"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/237"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/237"
+LAST|P245|"actor/237"
+CREATE
+LAST|Len|"Paul Muller"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/238"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/238"
+LAST|P245|"actor/238"
+CREATE
+LAST|Len|"Robert Mulreany"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/239"
+LAST|P245|"actor/239"
+CREATE
+LAST|Len|"Yvette Nachmias"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/243"
+LAST|P245|"actor/243"
+CREATE
+LAST|Len|"Koichi Nagai"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/244"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/244"
+LAST|P245|"actor/244"
+CREATE
+LAST|Len|"Kyoko Nagai"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/245"
+LAST|P245|"actor/245"
+CREATE
+LAST|Len|"Yasunori Nakajima"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/246"
+LAST|P245|"actor/246"
+CREATE
+LAST|Len|"Takeshi Nakamura"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/247"
+LAST|P245|"actor/247"
+CREATE
+LAST|Len|"Sakako Nakaya"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/249"
+LAST|P245|"actor/249"
+CREATE
+LAST|Len|"Michael Netter, Michael"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/251"
+LAST|P245|"actor/251"
+CREATE
+LAST|Len|"Louise Nevelson, Louise"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/252"
+LAST|P245|"actor/252"
+CREATE
+LAST|Len|"Marcia Newfield"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/253"
+LAST|P245|"actor/253"
+CREATE
+LAST|Len|"Fujio Nishikawa"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/254"
+LAST|P245|"actor/254"
+CREATE
+LAST|Len|"Kenneth Noland"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/255"
+LAST|P245|"actor/255"
+CREATE
+LAST|Len|"David Novros"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/256"
+LAST|P245|"actor/256"
+CREATE
+LAST|Len|"Minoru Oda"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/257"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/257"
+LAST|P245|"actor/257"
+CREATE
+LAST|Len|"Ann Ohlmacher"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/258"
+LAST|P245|"actor/258"
+CREATE
+LAST|Len|"Nobuyuki Oku"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/259"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/259"
+LAST|P245|"actor/259"
+CREATE
+LAST|Len|"Junosuke Okuyama"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/260"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/260"
+LAST|P245|"actor/260"
+CREATE
+LAST|Len|"Pauline Oliveros"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/262"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/262"
+LAST|P245|"actor/262"
+CREATE
+LAST|Len|"Alfred Pacquement"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/264"
+LAST|P245|"actor/264"
+CREATE
+LAST|Len|"John W. Pan"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/266"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/266"
+LAST|P245|"actor/266"
+CREATE
+LAST|Len|"Peter Pearce"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/269"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/269"
+LAST|P245|"actor/269"
+CREATE
+LAST|Len|"Rudy Perez"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/270"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/270"
+LAST|P245|"actor/270"
+CREATE
+LAST|Len|"Alain Peron"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/271"
+LAST|P245|"actor/271"
+CREATE
+LAST|Len|"Herbert Perr"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/272"
+LAST|P245|"actor/272"
+CREATE
+LAST|Len|"Gunter Perry"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/273"
+LAST|P245|"actor/273"
+CREATE
+LAST|Len|"Marlowe Pichel"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/277"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/277"
+LAST|P245|"actor/277"
+CREATE
+LAST|Len|"Hala Pietkiewicz"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/278"
+LAST|P245|"actor/278"
+CREATE
+LAST|Len|"Brigid Polk"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/280"
+LAST|P245|"actor/280"
+CREATE
+LAST|Len|"Thalia Poons"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/282"
+LAST|P245|"actor/282"
+CREATE
+LAST|Len|"Alan Pottasch"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/283"
+LAST|P245|"actor/283"
+CREATE
+LAST|Len|"Charles Quigley"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/285"
+LAST|P245|"actor/285"
+CREATE
+LAST|Len|"Larry Rivers"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/292"
+LAST|P245|"actor/292"
+CREATE
+LAST|Len|"Robby Robinson"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/293"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/293"
+LAST|P245|"actor/293"
+CREATE
+LAST|Len|"Tonie Roos"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/295"
+LAST|P245|"actor/295"
+CREATE
+LAST|Len|"Charles Ross"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/297"
+LAST|P245|"actor/297"
+CREATE
+LAST|Len|"Phyllis Santis"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/302"
+LAST|P245|"actor/302"
+CREATE
+LAST|Len|"Mana Sarabhai"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/303"
+LAST|P245|"actor/303"
+CREATE
+LAST|Len|"Robert Savage"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/306"
+LAST|P245|"actor/306"
+CREATE
+LAST|Len|"Skip Savard"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/307"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/307"
+LAST|P245|"actor/307"
+CREATE
+LAST|Len|"Karl Schenzer"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/308"
+LAST|P245|"actor/308"
+CREATE
+LAST|Len|"Carlota Schoolman"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/312"
+LAST|P245|"actor/312"
+CREATE
+LAST|Len|"Robert Schuler"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/314"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/314"
+LAST|P245|"actor/314"
+CREATE
+LAST|Len|"James Seawright"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/316"
+LAST|P245|"actor/316"
+CREATE
+LAST|Len|"Phyllis Selzer"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/318"
+LAST|P245|"actor/318"
+CREATE
+LAST|Len|"Jacquelyn D. Serwer"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/320"
+LAST|P245|"actor/320"
+CREATE
+LAST|Len|"Toni Shfrazi"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/321"
+LAST|P245|"actor/321"
+CREATE
+LAST|Len|"Hitoshi Shimada"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/322"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/322"
+LAST|P245|"actor/322"
+CREATE
+LAST|Len|"Kimio Shimada"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/323"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/323"
+LAST|P245|"actor/323"
+CREATE
+LAST|Len|"Hiromi Shiratori"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/324"
+LAST|P245|"actor/324"
+CREATE
+LAST|Len|"Harry Shunk"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/325"
+LAST|P245|"actor/325"
+CREATE
+LAST|Len|"Lawrence Silverstein"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/326"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/326"
+LAST|P245|"actor/326"
+CREATE
+LAST|Len|"Joseph Slater"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/327"
+LAST|P245|"actor/327"
+CREATE
+LAST|Len|"Michael Snow"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/328"
+LAST|P245|"actor/328"
+CREATE
+LAST|Len|"Boris Sojka"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/329"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/329"
+LAST|P245|"actor/329"
+CREATE
+LAST|Len|"Keith Sonnier"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/331"
+LAST|P245|"actor/331"
+CREATE
+LAST|Len|"Raphaël Sorin"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/333"
+LAST|P245|"actor/333"
+CREATE
+LAST|Len|"Marvin Spindler"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/334"
+LAST|P245|"actor/334"
+CREATE
+LAST|Len|"Gunnar Spons"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/335"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/335"
+LAST|P245|"actor/335"
+CREATE
+LAST|Len|"Stan Stanciewicz"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/336"
+LAST|P245|"actor/336"
+CREATE
+LAST|Len|"Alan Stanton"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/337"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/337"
+LAST|P245|"actor/337"
+CREATE
+LAST|Len|"Karl Steck"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/338"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/338"
+LAST|P245|"actor/338"
+CREATE
+LAST|Len|"Gerd Stern"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/341"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/341"
+LAST|P245|"actor/341"
+CREATE
+LAST|Len|"Merlin Stone"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/342"
+LAST|P245|"actor/342"
+CREATE
+LAST|Len|"Rosemary Stroer"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/344"
+LAST|P245|"actor/344"
+CREATE
+LAST|Len|"Michael Strumpf"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/345"
+LAST|P245|"actor/345"
+CREATE
+LAST|Len|"David Stuart"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/346"
+LAST|P245|"actor/346"
+CREATE
+LAST|Len|"Makiya Takagi"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/350"
+LAST|P245|"actor/350"
+CREATE
+LAST|Len|"Yuji Takahashi"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/351"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/351"
+LAST|P245|"actor/351"
+CREATE
+LAST|Len|"Kazuaki Takayama"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/352"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/352"
+LAST|P245|"actor/352"
+CREATE
+LAST|Len|"Renichi Takenaka"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/353"
+LAST|P245|"actor/353"
+CREATE
+LAST|Len|"Yasuharu Tamiya"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/355"
+LAST|P245|"actor/355"
+CREATE
+LAST|Len|"Yoshikazu Tanaka"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/356"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/356"
+LAST|P245|"actor/356"
+CREATE
+LAST|Len|"Euchi Taniyama"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/357"
+LAST|P245|"actor/357"
+CREATE
+LAST|Len|"Malinda Teel"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/358"
+LAST|P245|"actor/358"
+CREATE
+LAST|Len|"Shuji Terayama"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/360"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/360"
+LAST|P245|"actor/360"
+CREATE
+LAST|Len|"Yoshio Tsukio"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/365"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/365"
+LAST|P245|"actor/365"
+CREATE
+LAST|Len|"Richard Tum Seden"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/367"
+LAST|P245|"actor/367"
+CREATE
+LAST|Len|"Cy Twombly"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/368"
+LAST|P245|"actor/368"
+CREATE
+LAST|Len|"Jack Tworkov"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/369"
+LAST|P245|"actor/369"
+CREATE
+LAST|Len|"Morihiko Ueda"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/370"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/370"
+LAST|P245|"actor/370"
+CREATE
+LAST|Len|"Sylvie Vog"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/373"
+LAST|P245|"actor/373"
+CREATE
+LAST|Len|"Alexander Warren"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/376"
+LAST|P245|"actor/376"
+CREATE
+LAST|Len|"Peter Warren"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/377"
+LAST|P245|"actor/377"
+CREATE
+LAST|Len|"Robert Watts"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/378"
+LAST|P245|"actor/378"
+CREATE
+LAST|Len|"John Wesley"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/380"
+LAST|P245|"actor/380"
+CREATE
+LAST|Len|"David Whitney"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/384"
+LAST|P245|"actor/384"
+CREATE
+LAST|Len|"Jim Wilkinson"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/386"
+LAST|P245|"actor/386"
+CREATE
+LAST|Len|"Robert Wilson"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/388"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/388"
+LAST|P245|"actor/388"
+CREATE
+LAST|Len|"Gosta Wolin"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/391"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/391"
+LAST|P245|"actor/391"
+CREATE
+LAST|Len|"David Woodbridge"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/392"
+LAST|P245|"actor/392"
+CREATE
+LAST|Len|"Morion Wurtele"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/394"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/394"
+LAST|P245|"actor/394"
+CREATE
+LAST|Len|"Masanobu Yoshimura"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/396"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/396"
+LAST|P245|"actor/396"
+CREATE
+LAST|Len|"Nicholas Zettlemoyer"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/400"
+LAST|P245|"actor/400"
+CREATE
+LAST|Len|"Academy for Educational Development, Guatemala"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/401"
+LAST|P245|"actor/401"
+CREATE
+LAST|Len|"Amul Dairy Cooperative"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/402"
+LAST|P245|"actor/402"
+CREATE
+LAST|Len|"Andy Warhol Museum"
+LAST|P1|Q19103
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/403"
+LAST|P245|"actor/403"
+CREATE
+LAST|Len|"Annual Avant Garde Festivals"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/404"
+LAST|P245|"actor/404"
+CREATE
+LAST|Len|"A.S.P.C.A."
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/405"
+LAST|P245|"actor/405"
+CREATE
+LAST|Len|"Bell and Howell Co."
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/406"
+LAST|P245|"actor/406"
+CREATE
+LAST|Len|"Bell Telephone Laboratories"
+LAST|P1|Q19085
+LAST|Den|"laboratory"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/407"
+LAST|P245|"actor/407"
+CREATE
+LAST|Len|"B.K. Smith Gallery, Lake Erie College, Painesville, Ohio"
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/408"
+LAST|P245|"actor/408"
+CREATE
+LAST|Len|"Block Engineering, Inc."
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/409"
+LAST|P245|"actor/409"
+CREATE
+LAST|Len|"Brooklyn Academy of Music"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/410"
+LAST|P245|"actor/410"
+CREATE
+LAST|Len|"Capintec Nuclear"
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/412"
+LAST|P245|"actor/412"
+CREATE
+LAST|Len|"Musée national d'art moderne / Centre de création industrielle"
+LAST|P1|Q19103
+LAST|Den|"museum"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/413"
+LAST|P245|"actor/413"
+CREATE
+LAST|Len|"Coherent Radiation Laboratories"
+LAST|P1|Q19085
+LAST|Den|"laboratory"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/415"
+LAST|P245|"actor/415"
+CREATE
+LAST|Len|"Columbia Sound, Inc."
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/416"
+LAST|P245|"actor/416"
+CREATE
+LAST|Len|"E.A.T. India"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/417"
+LAST|P245|"actor/417"
+CREATE
+LAST|Len|"E.A.T. Japan"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/418"
+LAST|P245|"actor/418"
+CREATE
+LAST|Len|"E.A.T. local group in Detroit, Michigan"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/419"
+LAST|P245|"actor/419"
+CREATE
+LAST|Len|"E.A.T. local group in Los Angeles, California"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/420"
+LAST|P245|"actor/420"
+CREATE
+LAST|Len|"E.A.T. local group In Portland, Oregon"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/421"
+LAST|P245|"actor/421"
+CREATE
+LAST|Len|"E.A.T. local group in San Francisco, California"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/422"
+LAST|P245|"actor/422"
+CREATE
+LAST|Len|"E.A.T. Local Groups"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/423"
+LAST|P245|"actor/423"
+CREATE
+LAST|Len|"Electronic Enclosure Corp."
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/424"
+LAST|P245|"actor/424"
+CREATE
+LAST|Len|"Envirolab, University of California, Los Angeles"
+LAST|P1|Q1804
+LAST|Den|"laboratory university"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/425"
+LAST|P245|"actor/425"
+CREATE
+LAST|Len|"Environ Electronic Labs, Inc."
+LAST|P1|Q19085
+LAST|Den|"company laboratory"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/426"
+LAST|P245|"actor/426"
+CREATE
+LAST|Len|"Folkways Records and Service Corp."
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/428"
+LAST|P245|"actor/428"
+CREATE
+LAST|Len|"FRAC Bourgogne"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/429"
+LAST|P245|"actor/429"
+CREATE
+LAST|Len|"G.T. Schjeldahl Co."
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/430"
+LAST|P245|"actor/430"
+CREATE
+LAST|Len|"Howard J. Rubenstein Associates, Inc."
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/431"
+LAST|P245|"actor/431"
+CREATE
+LAST|Len|"Industrial Timer"
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/432"
+LAST|P245|"actor/432"
+CREATE
+LAST|Len|"Institute of Art and Urban Resources"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/433"
+LAST|P245|"actor/433"
+CREATE
+LAST|Len|"J. M. Kaplan Fund"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/434"
+LAST|P245|"actor/434"
+CREATE
+LAST|Len|"Leo Castelli Gallery"
+LAST|P1|Q19085
+LAST|Den|"gallery"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/436"
+LAST|P245|"actor/436"
+CREATE
+LAST|Len|"Luchow's Restaurant"
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/437"
+LAST|P245|"actor/437"
+CREATE
+LAST|Len|"Lucinda Childs Dance Foundation"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/438"
+LAST|P245|"actor/438"
+CREATE
+LAST|Len|"Marineland of Florida"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/439"
+LAST|P245|"actor/439"
+CREATE
+LAST|Len|"McCordi Corp."
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/440"
+LAST|P245|"actor/440"
+CREATE
+LAST|Len|"Mee Industries"
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/441"
+LAST|P245|"actor/441"
+CREATE
+LAST|Len|"Ministry of Education, El Salvador"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/443"
+LAST|P245|"actor/443"
+CREATE
+LAST|Len|"Mont Sinai Hospital"
+LAST|P1|Q19085
+LAST|Den|"hospital"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/445"
+LAST|P245|"actor/445"
+CREATE
+LAST|Len|"Mount Sinai Laboratory"
+LAST|P1|Q19085
+LAST|Den|"laboratory"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/446"
+LAST|P245|"actor/446"
+CREATE
+LAST|Len|"Museum Ludwig, Koln"
+LAST|P1|Q19103
+LAST|Den|"museum"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/447"
+LAST|P245|"actor/447"
+CREATE
+LAST|Len|"The Museum of Modern Art (MoMA)"
+LAST|P1|Q19103
+LAST|Den|"museum"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/448"
+LAST|P245|"actor/448"
+CREATE
+LAST|Len|"The National Aeronautics and Space Administration (NASA)"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/449"
+LAST|P245|"actor/449"
+CREATE
+LAST|Len|"National Institute of Mental Health"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/452"
+LAST|P245|"actor/452"
+CREATE
+LAST|Len|"Ninon Columbia"
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/455"
+LAST|P245|"actor/455"
+CREATE
+LAST|Len|"Nippon Glass Co."
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/456"
+LAST|P245|"actor/456"
+CREATE
+LAST|Len|"Pichel Industries"
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/459"
+LAST|P245|"actor/459"
+CREATE
+LAST|Len|"Polytechnic Institute of New York"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/460"
+LAST|P245|"actor/460"
+CREATE
+LAST|Len|"Raven Industries"
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/461"
+LAST|P245|"actor/461"
+CREATE
+LAST|Len|"Rockefeller Foundation"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/462"
+LAST|P245|"actor/462"
+CREATE
+LAST|Len|"Schweber Electronics"
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/463"
+LAST|P245|"actor/463"
+CREATE
+LAST|Len|"Seismological Laboratory, University of Nevada"
+LAST|P1|Q1804
+LAST|Den|"laboratory university"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/464"
+LAST|P245|"actor/464"
+CREATE
+LAST|Len|"Sloan Commission on Cable Communications"
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/465"
+LAST|P245|"actor/465"
+CREATE
+LAST|Len|"Sony Buiding, Tokyo"
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/467"
+LAST|P245|"actor/467"
+CREATE
+LAST|Len|"Stockholm International Film Festival"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/469"
+LAST|P245|"actor/469"
+CREATE
+LAST|Len|"T.E.A.C."
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/470"
+LAST|P245|"actor/470"
+CREATE
+LAST|Len|"Teledyne"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/471"
+LAST|P245|"actor/471"
+CREATE
+LAST|Len|"The American Foundation for Automation and Employment"
+LAST|P1|Q19049
+LAST|Den|"foundation"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/472"
+LAST|P245|"actor/472"
+CREATE
+LAST|Len|"The Arkville Erpf Fund"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/473"
+LAST|P245|"actor/473"
+CREATE
+LAST|Len|"The Black Mountain College"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/474"
+LAST|P245|"actor/474"
+CREATE
+LAST|Len|"The Indian Atomic Energy Commission"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/476"
+LAST|P245|"actor/476"
+CREATE
+LAST|Len|"The Kitchen"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/477"
+LAST|P245|"actor/477"
+CREATE
+LAST|Len|"The New York Times"
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/478"
+LAST|P245|"actor/478"
+CREATE
+LAST|Len|"The Sisler Foundation"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/479"
+LAST|P245|"actor/479"
+CREATE
+LAST|Len|"The Sonic Arts Union"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/480"
+LAST|P245|"actor/480"
+CREATE
+LAST|Len|"The United Nations International School"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/481"
+LAST|P245|"actor/481"
+CREATE
+LAST|Len|"Toshiba Electric Co."
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/482"
+LAST|P245|"actor/482"
+CREATE
+LAST|Len|"Tsutsunaka Plastic Co."
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/484"
+LAST|P245|"actor/484"
+CREATE
+LAST|Len|"U.C.L.A. Space Biology Laboratory"
+LAST|P1|Q1804
+LAST|Den|"laboratory university"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/485"
+LAST|P245|"actor/485"
+CREATE
+LAST|Len|"Uniroyal, Inc."
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/486"
+LAST|P245|"actor/486"
+CREATE
+LAST|Len|"United Nations Development Program"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/487"
+LAST|P245|"actor/487"
+CREATE
+LAST|Len|"United States Agency for International Development's"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/488"
+LAST|P245|"actor/488"
+CREATE
+LAST|Len|"U.S. Naval Oceanographic Office"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/489"
+LAST|P245|"actor/489"
+CREATE
+LAST|Len|"V.l.T.E.C. Corp."
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/490"
+LAST|P245|"actor/490"
+CREATE
+LAST|Len|"Westinghouse Corporation Defense & Electronic Systems Center"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/491"
+LAST|P245|"actor/491"
+CREATE
+LAST|Len|"Whale Fund of the New York Zoological Society"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/492"
+LAST|P245|"actor/492"
+CREATE
+LAST|Len|"Zoological Society"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/493"
+LAST|P245|"actor/493"
+CREATE
+LAST|Len|"The Museum of Modern Art Fireman"
+LAST|P1|Q19103
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/494"
+LAST|P245|"actor/494"
+CREATE
+LAST|Len|"The night-watchmen at the Museum of Modern Art"
+LAST|P1|Q19103
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/495"
+LAST|P245|"actor/495"
+CREATE
+LAST|Len|"The Museum of Modern Art Workmen"
+LAST|P1|Q19103
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/496"
+LAST|P245|"actor/496"
+CREATE
+LAST|Len|"The Paris-Match Correspondant"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/497"
+LAST|P245|"actor/497"
+CREATE
+LAST|Len|"A Museum of Modern Art Photographer"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q20538|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/498"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/498"
+LAST|P245|"actor/498"
+CREATE
+LAST|Len|"Meredith Morse"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/499"
+LAST|P245|"actor/499"
+CREATE
+LAST|Len|"Norddeutscher Rundfunk Hamburg"
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/500"
+LAST|P245|"actor/500"
+CREATE
+LAST|Len|"Anonym"
+LAST|P1|
+LAST|Den|"anonym"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/502"
+LAST|P245|"actor/502"
+CREATE
+LAST|Len|"Mont Sinai Laboratory for Technical Information"
+LAST|P1|Q19085
+LAST|Den|"laboratory"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/503"
+LAST|P245|"actor/503"
+CREATE
+LAST|Len|"Ford Aerospace"
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/504"
+LAST|P245|"actor/504"
+CREATE
+LAST|Len|"a group of 500 people gathered together for Rauschenberg's Open Score"
+LAST|P1|Q19047
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/505"
+LAST|P245|"actor/505"
+CREATE
+LAST|Len|"WBAI-NYC, New York, USA"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/506"
+LAST|P245|"actor/506"
+CREATE
+LAST|Len|"Anthony Tadona"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/507"
+LAST|P245|"actor/507"
+CREATE
+LAST|Len|"Logan Hargrave"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/508"
+LAST|P245|"actor/508"
+CREATE
+LAST|Len|"Robert Coops"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/509"
+LAST|P245|"actor/509"
+CREATE
+LAST|Len|"Richard Deaver"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/510"
+LAST|P245|"actor/510"
+CREATE
+LAST|Len|"Edward Dziedzic"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/511"
+LAST|P245|"actor/511"
+CREATE
+LAST|Len|"Lee Huber"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/512"
+LAST|P245|"actor/512"
+CREATE
+LAST|Len|"Mark Salas"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/513"
+LAST|P245|"actor/513"
+CREATE
+LAST|Len|"Bates Lowry"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/514"
+LAST|P245|"actor/514"
+CREATE
+LAST|Len|"John Pierce"
+LAST|P1|Q1
+LAST|Den|"manager engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/519"
+LAST|P245|"actor/519"
+CREATE
+LAST|Len|"F.H. Winslow"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/520"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/520"
+LAST|P245|"actor/520"
+CREATE
+LAST|Len|"P. Bruins"
+LAST|P1|Q1
+LAST|Den|"professor"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q23889|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/521"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/521"
+LAST|P245|"actor/521"
+CREATE
+LAST|Len|"Martha Turi"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/522"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/522"
+LAST|P245|"actor/522"
+CREATE
+LAST|Len|"Louis Kellum"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/523"
+LAST|P245|"actor/523"
+CREATE
+LAST|Len|"J.W. Sellers"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/524"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/524"
+LAST|P245|"actor/524"
+CREATE
+LAST|Len|"Parke Schaeffer"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/525"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/525"
+LAST|P245|"actor/525"
+CREATE
+LAST|Len|"Norman Nelson"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/526"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/526"
+LAST|P245|"actor/526"
+CREATE
+LAST|Len|"R. Baecker"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/527"
+LAST|P245|"actor/527"
+CREATE
+LAST|Len|"J. Tonndorf"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/528"
+LAST|P245|"actor/528"
+CREATE
+LAST|Len|"Edward. S. Seeley"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/529"
+LAST|P245|"actor/529"
+CREATE
+LAST|Len|"H. Bohnert"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/530"
+LAST|P245|"actor/530"
+CREATE
+LAST|Len|"Seymour Papert"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/531"
+LAST|P245|"actor/531"
+CREATE
+LAST|Len|"Ralph Evans"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/532"
+LAST|P245|"actor/532"
+CREATE
+LAST|Len|"Dean Judd"
+LAST|P1|Q1
+LAST|Den|"researcher"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q24692|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/533"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/533"
+LAST|P245|"actor/533"
+CREATE
+LAST|Len|"Jerome Ysroael Lettvin"
+LAST|P1|Q1
+LAST|Den|"researcher professor"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q24692|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/534"
+LAST|P44|Q23889|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/534"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/534"
+LAST|P245|"actor/534"
+CREATE
+LAST|Len|"B. Hunter"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/535"
+LAST|P245|"actor/535"
+CREATE
+LAST|Len|"R. Feller"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/536"
+LAST|P245|"actor/536"
+CREATE
+LAST|Len|"William R. Bennett"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/538"
+LAST|P245|"actor/538"
+CREATE
+LAST|Len|"Ralph Martel"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/540"
+LAST|P245|"actor/540"
+CREATE
+LAST|Len|"Frank T. Turner"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/541"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/541"
+LAST|P245|"actor/541"
+CREATE
+LAST|Len|"Amy Martin"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/542"
+LAST|P245|"actor/542"
+CREATE
+LAST|Len|"Thomas Buechner"
+LAST|P1|Q1
+LAST|Den|"manager"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/543"
+LAST|P245|"actor/543"
+CREATE
+LAST|Len|"Lawrence Silvenstein"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/544"
+LAST|P245|"actor/544"
+CREATE
+LAST|Len|"The Anand Dairy Cooperative"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/546"
+LAST|P245|"actor/546"
+CREATE
+LAST|Len|"D. Berkman"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/547"
+LAST|P245|"actor/547"
+CREATE
+LAST|Len|"E.V. Chitnis"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/548"
+LAST|P245|"actor/548"
+CREATE
+LAST|Len|"P. K. Garg"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/549"
+LAST|P245|"actor/549"
+CREATE
+LAST|Len|"K.S. Karnik"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/550"
+LAST|P245|"actor/550"
+CREATE
+LAST|Len|"Bhavaraju Sarveswara Rao"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/551"
+LAST|P245|"actor/551"
+CREATE
+LAST|Len|"N. Maccoby"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/552"
+LAST|P245|"actor/552"
+CREATE
+LAST|Len|"K. B. Shah"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/553"
+LAST|P245|"actor/553"
+CREATE
+LAST|Len|"The John D. Rockefeller III Fund"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/554"
+LAST|P245|"actor/554"
+CREATE
+LAST|Len|"Anne Riley"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/555"
+LAST|P245|"actor/555"
+CREATE
+LAST|Len|"Nora Cross"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/556"
+LAST|P245|"actor/556"
+CREATE
+LAST|Len|"Baroda University"
+LAST|P1|Q1804
+LAST|Den|"university"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/557"
+LAST|P245|"actor/557"
+CREATE
+LAST|Len|"Pandit  Pran Nath"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/558"
+LAST|P245|"actor/558"
+CREATE
+LAST|Len|"Barry Kaplan"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/559"
+LAST|P245|"actor/559"
+CREATE
+LAST|Len|"Brearley School"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/560"
+LAST|P245|"actor/560"
+CREATE
+LAST|Len|"Children's Community Workshop School"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/561"
+LAST|P245|"actor/561"
+CREATE
+LAST|Len|"Good Neighbor Tutorial Program"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/562"
+LAST|P245|"actor/562"
+CREATE
+LAST|Len|"Horace Mann School"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/563"
+LAST|P245|"actor/563"
+CREATE
+LAST|Len|"Intermediate School No. 201"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/564"
+LAST|P245|"actor/564"
+CREATE
+LAST|Len|"Little Red School House"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/565"
+LAST|P245|"actor/565"
+CREATE
+LAST|Len|"Northside Center for Child Development"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/566"
+LAST|P245|"actor/566"
+CREATE
+LAST|Len|"Public School No. 19"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/567"
+LAST|P245|"actor/567"
+CREATE
+LAST|Len|"Saint Ann's School"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/568"
+LAST|P245|"actor/568"
+CREATE
+LAST|Len|"United Nations Schools"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/569"
+LAST|P245|"actor/569"
+CREATE
+LAST|Len|"We Care, a community group in Harlem"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/570"
+LAST|P245|"actor/570"
+CREATE
+LAST|Len|"Kobayashi Hakudo"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/571"
+LAST|P245|"actor/571"
+CREATE
+LAST|Len|"Yuji Morioka"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/572"
+LAST|P245|"actor/572"
+CREATE
+LAST|Len|"Sào Schlumberger"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/574"
+LAST|P245|"actor/574"
+CREATE
+LAST|Len|"Martha Jackson Gallery"
+LAST|P1|Q19085
+LAST|Den|"gallery"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/575"
+LAST|P245|"actor/575"
+CREATE
+LAST|Len|"Dorothy Seckler"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/576"
+LAST|P245|"actor/576"
+CREATE
+LAST|Len|"Musée d'Art Moderne de la Ville de Paris"
+LAST|P1|Q19103
+LAST|Den|"museum"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/578"
+LAST|P245|"actor/578"
+CREATE
+LAST|Len|"Aktionsforum Praterinsel"
+LAST|P1|Q1804
+LAST|Den|"art center"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/579"
+LAST|P245|"actor/579"
+CREATE
+LAST|Len|"The Menil Collection, Contemporary Arts Museum"
+LAST|P1|Q19103
+LAST|Den|"museum"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/580"
+LAST|P245|"actor/580"
+CREATE
+LAST|Len|"Guggenheim Museum Bilbao"
+LAST|P1|Q19103
+LAST|Den|"museum"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/581"
+LAST|P245|"actor/581"
+CREATE
+LAST|Len|"Carré d'Art"
+LAST|P1|Q19103
+LAST|Den|"museum"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/582"
+LAST|P245|"actor/582"
+CREATE
+LAST|Len|"Museum of Contemporary Art, Tokyo"
+LAST|P1|Q19103
+LAST|Den|"museum"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/583"
+LAST|P245|"actor/583"
+CREATE
+LAST|Len|"Gustafson"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/584"
+LAST|P245|"actor/584"
+CREATE
+LAST|Len|"Polytechnic Institute of Brooklyn"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/585"
+LAST|P245|"actor/585"
+CREATE
+LAST|Len|"Paterson Parchment Paper Co"
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/586"
+LAST|P245|"actor/586"
+CREATE
+LAST|Len|"Union Camp Co."
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/587"
+LAST|P245|"actor/587"
+CREATE
+LAST|Len|"E.A.T. Staff"
+LAST|P1|Q19047
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/588"
+LAST|P245|"actor/588"
+CREATE
+LAST|Len|"Allstate Communications Company"
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/589"
+LAST|P245|"actor/589"
+CREATE
+LAST|Len|"Just Plastics Company"
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/590"
+LAST|P245|"actor/590"
+CREATE
+LAST|Len|"M.I.T. Science Camp"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/593"
+LAST|P245|"actor/593"
+CREATE
+LAST|Len|"Eastman-Kodak"
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/594"
+LAST|P245|"actor/594"
+CREATE
+LAST|Len|"Carnegie Mellon Institute"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/595"
+LAST|P245|"actor/595"
+CREATE
+LAST|Len|"Hunter Assoc. Labs Inc."
+LAST|P1|Q19085
+LAST|Den|"laboratory"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/596"
+LAST|P245|"actor/596"
+CREATE
+LAST|Len|"National Bureau of Standards"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/598"
+LAST|P245|"actor/598"
+CREATE
+LAST|Len|"Yale University"
+LAST|P1|Q1804
+LAST|Den|"university"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/599"
+LAST|P245|"actor/599"
+CREATE
+LAST|Len|"Jackson Mac Low"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/600"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/600"
+LAST|P245|"actor/600"
+CREATE
+LAST|Len|"Chester Bowles"
+LAST|P1|Q1
+LAST|Den|"politician"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/601"
+LAST|P245|"actor/601"
+CREATE
+LAST|Len|"Noam Chomsky"
+LAST|P1|Q1
+LAST|Den|"researcher professor"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q24692|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/602"
+LAST|P44|Q23889|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/602"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/602"
+LAST|P245|"actor/602"
+CREATE
+LAST|Len|"Kenneth Clark"
+LAST|P1|Q1
+LAST|Den|"art historian"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/603"
+LAST|P245|"actor/603"
+CREATE
+LAST|Len|"Alva Myrdal"
+LAST|P1|Q1
+LAST|Den|"politician sociologist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/605"
+LAST|P245|"actor/605"
+CREATE
+LAST|Len|"Meyer Shapiro"
+LAST|P1|Q1
+LAST|Den|"art historian"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/606"
+LAST|P245|"actor/606"
+CREATE
+LAST|Len|"Kenzo Tange"
+LAST|P1|Q1
+LAST|Den|"architect"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q23416|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/607"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/607"
+LAST|P245|"actor/607"
+CREATE
+LAST|Len|"Jerome Wiesner"
+LAST|P1|Q1
+LAST|Den|"researcher professor"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q24692|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/608"
+LAST|P44|Q23889|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/608"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/608"
+LAST|P245|"actor/608"
+CREATE
+LAST|Len|"Nihon Columbia"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/609"
+LAST|P245|"actor/609"
+CREATE
+LAST|Len|"Kanto Denki"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/610"
+LAST|P245|"actor/610"
+CREATE
+LAST|Len|"The Joint Venture Group"
+LAST|P1|Q19085
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/611"
+LAST|P245|"actor/611"
+CREATE
+LAST|Len|"Mitsui Kansetsu"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/612"
+LAST|P245|"actor/612"
+CREATE
+LAST|Len|"Takenaka Komuten"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/613"
+LAST|P245|"actor/613"
+CREATE
+LAST|Len|"Pepsi-Cola (Japan), Ltd."
+LAST|P1|Q19085
+LAST|Den|"industry"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/614"
+LAST|P245|"actor/614"
+CREATE
+LAST|Len|"Ronald Hobbs"
+LAST|P1|Q1
+LAST|Den|"manager"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/622"
+LAST|P245|"actor/622"
+CREATE
+LAST|Len|"Tom Slater"
+LAST|P1|Q1
+LAST|Den|"manager"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/623"
+LAST|P245|"actor/623"
+CREATE
+LAST|Len|"Chuck Ross"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/626"
+LAST|P245|"actor/626"
+CREATE
+LAST|Len|"Malinda Peel"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/627"
+LAST|P245|"actor/627"
+CREATE
+LAST|Len|"University of St. Thomas, Houston"
+LAST|P1|Q1804
+LAST|Den|"university"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/628"
+LAST|P245|"actor/628"
+CREATE
+LAST|Len|"San Francisco Museum of Modern Art"
+LAST|P1|Q19103
+LAST|Den|"museum"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/629"
+LAST|P245|"actor/629"
+CREATE
+LAST|Len|"Melynda Abrecht"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/630"
+LAST|P245|"actor/630"
+CREATE
+LAST|Len|"Oliver Selfridge"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/633"
+LAST|P245|"actor/633"
+CREATE
+LAST|Len|"Council of Agents of Experiments in Art and Technology"
+LAST|P1|Q19047
+LAST|Den|"board"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/642"
+LAST|P245|"actor/642"
+CREATE
+LAST|Len|"Richard P. Brandt"
+LAST|P1|Q1
+LAST|Den|"manager"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/645"
+LAST|P245|"actor/645"
+CREATE
+LAST|Len|"Jack Masey"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/647"
+LAST|P245|"actor/647"
+CREATE
+LAST|Len|"Paul Girard"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/650"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/650"
+LAST|P245|"actor/650"
+CREATE
+LAST|Len|"Andrew Forge"
+LAST|P1|Q1
+LAST|Den|"art critic"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q20540|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/652"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/652"
+LAST|P245|"actor/652"
+CREATE
+LAST|Len|"Photographer unknown"
+LAST|P1|Q1
+LAST|Den|"photographer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q20538|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/653"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/653"
+LAST|P245|"actor/653"
+CREATE
+LAST|Len|"Kathy Baker"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/654"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/654"
+LAST|P245|"actor/654"
+CREATE
+LAST|Len|"Howard J. Sloane"
+LAST|P1|Q1
+LAST|Den|"researcher engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q24692|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/655"
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/655"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/655"
+LAST|P245|"actor/655"
+CREATE
+LAST|Len|"Paul E. Stephens"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/656"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/656"
+LAST|P245|"actor/656"
+CREATE
+LAST|Len|"Siegfried Albrecht"
+LAST|P1|Q1
+LAST|Den|"art critic"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q20540|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/657"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/657"
+LAST|P245|"actor/657"
+CREATE
+LAST|Len|"Kurd Alsleben"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/658"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/658"
+LAST|P245|"actor/658"
+CREATE
+LAST|Len|"Cord Passow"
+LAST|P1|Q1
+LAST|Den|"researcher"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q24692|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/659"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/659"
+LAST|P245|"actor/659"
+CREATE
+LAST|Len|"John Anthes"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/660"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/660"
+LAST|P245|"actor/660"
+CREATE
+LAST|Len|"Tracy S. Kinsel"
+LAST|P1|Q1
+LAST|Den|"researcher engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q24692|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/661"
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/661"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/661"
+LAST|P245|"actor/661"
+CREATE
+LAST|Len|"Mary Ashley"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/662"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/662"
+LAST|P245|"actor/662"
+CREATE
+LAST|Len|"John Mirageas"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/663"
+LAST|P245|"actor/663"
+CREATE
+LAST|Len|"Miracol Incorporated"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/664"
+LAST|P245|"actor/664"
+CREATE
+LAST|Len|"Gertrude  Barnstone"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/665"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/665"
+LAST|P245|"actor/665"
+CREATE
+LAST|Len|"Dan Bloxum"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/666"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/666"
+LAST|P245|"actor/666"
+CREATE
+LAST|Len|"Southwestern Plastics"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/667"
+LAST|P245|"actor/667"
+CREATE
+LAST|Len|"Joseph L. Goldman"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/668"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/668"
+LAST|P245|"actor/668"
+CREATE
+LAST|Len|"Institute for Storm Research"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/669"
+LAST|P245|"actor/669"
+CREATE
+LAST|Len|"Rachel Bas-Cohain"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/670"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/670"
+LAST|P245|"actor/670"
+CREATE
+LAST|Len|"Alan Litke"
+LAST|P1|Q1
+LAST|Den|"researcher engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q24692|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/671"
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/671"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/671"
+LAST|P245|"actor/671"
+CREATE
+LAST|Len|"Mary Bean"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/673"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/673"
+LAST|P245|"actor/673"
+CREATE
+LAST|Len|"William S. Bean"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/674"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/674"
+LAST|P245|"actor/674"
+CREATE
+LAST|Len|"U.S. Air Force Systems Program"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/675"
+LAST|P245|"actor/675"
+CREATE
+LAST|Len|"John Benedict"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/676"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/676"
+LAST|P245|"actor/676"
+CREATE
+LAST|Len|"John Newton"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/677"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/677"
+LAST|P245|"actor/677"
+CREATE
+LAST|Len|"Stevens Institute of Technology"
+LAST|P1|Q1804
+LAST|Den|"school"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/678"
+LAST|P245|"actor/678"
+CREATE
+LAST|Len|"Pennsylvania State University (aka Penn State or PSU)"
+LAST|P1|Q1804
+LAST|Den|"university"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/679"
+LAST|P245|"actor/679"
+CREATE
+LAST|Len|"Carry Instruments"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/680"
+LAST|P245|"actor/680"
+CREATE
+LAST|Len|"Mary Guyer Berg"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/681"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/681"
+LAST|P245|"actor/681"
+CREATE
+LAST|Len|"Howard Berg"
+LAST|P1|Q1
+LAST|Den|"professor"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q23889|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/682"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/682"
+LAST|P245|"actor/682"
+CREATE
+LAST|Len|"Sheila Berkley"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/683"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/683"
+LAST|P245|"actor/683"
+CREATE
+LAST|Len|"Graydon Cairl"
+LAST|P1|Q1
+LAST|Den|"manager"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/684"
+LAST|P245|"actor/684"
+CREATE
+LAST|Len|"National Transparent Manufacturing Company"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/685"
+LAST|P245|"actor/685"
+CREATE
+LAST|Len|"Jose Bermudez"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/686"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/686"
+LAST|P245|"actor/686"
+CREATE
+LAST|Len|"Geny Dignac"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/687"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/687"
+LAST|P245|"actor/687"
+CREATE
+LAST|Len|"Hernan I. Otano"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/688"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/688"
+LAST|P245|"actor/688"
+CREATE
+LAST|Len|"International Technology, Incorporated"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/689"
+LAST|P245|"actor/689"
+CREATE
+LAST|Len|"Richard E. Martin"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/690"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/690"
+LAST|P245|"actor/690"
+CREATE
+LAST|Len|"Adrienne Bordes"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/691"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/691"
+LAST|P245|"actor/691"
+CREATE
+LAST|Len|"Benjamin Koenig"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/692"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/692"
+LAST|P245|"actor/692"
+CREATE
+LAST|Len|"Ionic Research Laboratories"
+LAST|P1|Q19085
+LAST|Den|"company laboratory"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/693"
+LAST|P245|"actor/693"
+CREATE
+LAST|Len|"Robert Fox"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/695"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/695"
+LAST|P245|"actor/695"
+CREATE
+LAST|Len|"George B. Bush"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/696"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/696"
+LAST|P245|"actor/696"
+CREATE
+LAST|Len|"Lawrence J. Viernstein"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/697"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/697"
+LAST|P245|"actor/697"
+CREATE
+LAST|Len|"John Hopkins University"
+LAST|P1|Q1804
+LAST|Den|"university"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/698"
+LAST|P245|"actor/698"
+CREATE
+LAST|Len|"Jackie Cassen"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/699"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/699"
+LAST|P245|"actor/699"
+CREATE
+LAST|Len|"Rudi Stern"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/700"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/700"
+LAST|P245|"actor/700"
+CREATE
+LAST|Len|"Edwin Hodder"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/701"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/701"
+LAST|P245|"actor/701"
+CREATE
+LAST|Len|"Hubert Wilkie Communications Affiliates"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/702"
+LAST|P245|"actor/702"
+CREATE
+LAST|Len|"Samuel Chaikofsky"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/703"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/703"
+LAST|P245|"actor/703"
+CREATE
+LAST|Len|"David Chapin"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/704"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/704"
+LAST|P245|"actor/704"
+CREATE
+LAST|Len|"Jacques Pankove"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/705"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/705"
+LAST|P245|"actor/705"
+CREATE
+LAST|Len|"RCA Laboratories"
+LAST|P1|Q19085
+LAST|Den|"company laboratory"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/706"
+LAST|P245|"actor/706"
+CREATE
+LAST|Len|"Sheldon Cohen"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/707"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/707"
+LAST|P245|"actor/707"
+CREATE
+LAST|Len|"Franck J. Costa"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/708"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/708"
+LAST|P245|"actor/708"
+CREATE
+LAST|Len|"Tilo Samter"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/709"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/709"
+LAST|P245|"actor/709"
+CREATE
+LAST|Len|"Roger Doering"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/710"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/710"
+LAST|P245|"actor/710"
+CREATE
+LAST|Len|"Automatic Switch Company"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/711"
+LAST|P245|"actor/711"
+CREATE
+LAST|Len|"Arturo Cuetara"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/712"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/712"
+LAST|P245|"actor/712"
+CREATE
+LAST|Len|"Walter Delaney"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/715"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/715"
+LAST|P245|"actor/715"
+CREATE
+LAST|Len|"Peter Wilde"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/716"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/716"
+LAST|P245|"actor/716"
+CREATE
+LAST|Len|"Royce Dendler"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/717"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/717"
+LAST|P245|"actor/717"
+CREATE
+LAST|Len|"Arthur Dodge"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/718"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/718"
+LAST|P245|"actor/718"
+CREATE
+LAST|Len|"Juan Downey"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/720"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/720"
+LAST|P245|"actor/720"
+CREATE
+LAST|Len|"Fred Pitts"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/721"
+LAST|P245|"actor/721"
+CREATE
+LAST|Len|"Booz Allen Applied Research"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/722"
+LAST|P245|"actor/722"
+CREATE
+LAST|Len|"Robert James  Downing"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/723"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/723"
+LAST|P245|"actor/723"
+CREATE
+LAST|Len|"David Johnston"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/724"
+LAST|P245|"actor/724"
+CREATE
+LAST|Len|"Ultra Scale Models Inc."
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/725"
+LAST|P245|"actor/725"
+CREATE
+LAST|Len|"Systems Management Corporation"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/726"
+LAST|P245|"actor/726"
+CREATE
+LAST|Len|"ehn Graphics, Incorporated"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/727"
+LAST|P245|"actor/727"
+CREATE
+LAST|Len|"Don Edson"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/728"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/728"
+LAST|P245|"actor/728"
+CREATE
+LAST|Len|"Olive Freud"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/729"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/729"
+LAST|P245|"actor/729"
+CREATE
+LAST|Len|"Ford Instrument Company"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/730"
+LAST|P245|"actor/730"
+CREATE
+LAST|Len|"Claire Falkenstein"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/731"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/731"
+LAST|P245|"actor/731"
+CREATE
+LAST|Len|"Irving  Weiman"
+LAST|P1|Q1
+LAST|Den|"physicist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/732"
+LAST|P245|"actor/732"
+CREATE
+LAST|Len|"Electro Optical Systems, Incorporated"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/733"
+LAST|P245|"actor/733"
+CREATE
+LAST|Len|"Carl Fernbach-Flarsheim"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/734"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/734"
+LAST|P245|"actor/734"
+CREATE
+LAST|Len|"Robert M. Goodman"
+LAST|P1|Q1
+LAST|Den|"manager"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/735"
+LAST|P245|"actor/735"
+CREATE
+LAST|Len|"Franklin Institute"
+LAST|P1|Q1804
+LAST|Den|"institution"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/736"
+LAST|P245|"actor/736"
+CREATE
+LAST|Len|"Virginio  Ferrari"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/737"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/737"
+LAST|P245|"actor/737"
+CREATE
+LAST|Len|"Teodoro  Halpern"
+LAST|P1|Q1
+LAST|Den|"physicist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/738"
+LAST|P245|"actor/738"
+CREATE
+LAST|Len|"Argone National Laboratories"
+LAST|P1|Q19085
+LAST|Den|"company laboratory"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/739"
+LAST|P245|"actor/739"
+CREATE
+LAST|Len|"John  Fowski"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/740"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/740"
+LAST|P245|"actor/740"
+CREATE
+LAST|Len|"Walter Fowski"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/741"
+LAST|P245|"actor/741"
+CREATE
+LAST|Len|"Perkins Elmer Company"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/742"
+LAST|P245|"actor/742"
+CREATE
+LAST|Len|"Ronald Fox"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/743"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/743"
+LAST|P245|"actor/743"
+CREATE
+LAST|Len|"E. R. Hagen"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/744"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/744"
+LAST|P245|"actor/744"
+CREATE
+LAST|Len|"Gulf General Atomic"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/745"
+LAST|P245|"actor/745"
+CREATE
+LAST|Len|"Richard Fraenkel"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/746"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/746"
+LAST|P245|"actor/746"
+CREATE
+LAST|Len|"Jeffrey  Raskin"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/747"
+LAST|P245|"actor/747"
+CREATE
+LAST|Len|"University of Chicago"
+LAST|P1|Q1804
+LAST|Den|"university"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/748"
+LAST|P245|"actor/748"
+CREATE
+LAST|Len|"Ruth Francken"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/749"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/749"
+LAST|P245|"actor/749"
+CREATE
+LAST|Len|"Edward  Franklin"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/750"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/750"
+LAST|P245|"actor/750"
+CREATE
+LAST|Len|"Gary  Rieveschl"
+LAST|P1|Q1
+LAST|Den|"consultant"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/751"
+LAST|P245|"actor/751"
+CREATE
+LAST|Len|"John  Brookes"
+LAST|P1|Q1
+LAST|Den|"metallurgist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/752"
+LAST|P245|"actor/752"
+CREATE
+LAST|Len|"Charlotte  Gilbertson"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/753"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/753"
+LAST|P245|"actor/753"
+CREATE
+LAST|Len|"Eugene R.  Gladston"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/754"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/754"
+LAST|P245|"actor/754"
+CREATE
+LAST|Len|"Michael  Goldberg"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/755"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/755"
+LAST|P245|"actor/755"
+CREATE
+LAST|Len|"William  Hadfield"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/756"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/756"
+LAST|P245|"actor/756"
+CREATE
+LAST|Len|"Alfred  Heinz"
+LAST|P1|Q1
+LAST|Den|"researcher"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q24692|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/757"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/757"
+LAST|P245|"actor/757"
+CREATE
+LAST|Len|"Western Electric Engineering Research Center"
+LAST|P1|Q19085
+LAST|Den|"laboratory"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/758"
+LAST|P245|"actor/758"
+CREATE
+LAST|Len|"Amy  Hamouda"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/759"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/759"
+LAST|P245|"actor/759"
+CREATE
+LAST|Len|"Albert  Hamowy"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/760"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/760"
+LAST|P245|"actor/760"
+CREATE
+LAST|Len|"Howard H. Oldenburg"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/761"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/761"
+LAST|P245|"actor/761"
+CREATE
+LAST|Len|"American Electric Power Company"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/762"
+LAST|P245|"actor/762"
+CREATE
+LAST|Len|"Robert Harlow"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/763"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/763"
+LAST|P245|"actor/763"
+CREATE
+LAST|Len|"Hilary Harris"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/764"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/764"
+LAST|P245|"actor/764"
+CREATE
+LAST|Len|"James Macaulay"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/765"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/765"
+LAST|P245|"actor/765"
+CREATE
+LAST|Len|"Fred Stern"
+LAST|P1|Q1
+LAST|Den|"researcher professor"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q24692|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/766"
+LAST|P44|Q23889|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/766"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/766"
+LAST|P245|"actor/766"
+CREATE
+LAST|Len|"Howard Wise Gallery"
+LAST|P1|Q19085
+LAST|Den|"gallery"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/768"
+LAST|P245|"actor/768"
+CREATE
+LAST|Len|"John Hassell"
+LAST|P1|Q1
+LAST|Den|"artist engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/769"
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/769"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/769"
+LAST|P245|"actor/769"
+CREATE
+LAST|Len|"Mike Hinge"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/770"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/770"
+LAST|P245|"actor/770"
+CREATE
+LAST|Len|"Arthur  Hoener"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/771"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/771"
+LAST|P245|"actor/771"
+CREATE
+LAST|Len|"Leon  Wilde"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/772"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/772"
+LAST|P245|"actor/772"
+CREATE
+LAST|Len|"Raytheon Company"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/773"
+LAST|P245|"actor/773"
+CREATE
+LAST|Len|"Intersystems"
+LAST|P1|Q19047
+LAST|Den|"artist collective"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/774"
+LAST|P245|"actor/774"
+CREATE
+LAST|Len|"Yukihisa Isobe"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/775"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/775"
+LAST|P245|"actor/775"
+CREATE
+LAST|Len|"Masanori Oe"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/776"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/776"
+LAST|P245|"actor/776"
+CREATE
+LAST|Len|"Studio M2"
+LAST|P1|Q19049
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/777"
+LAST|P245|"actor/777"
+CREATE
+LAST|Len|"James  Calonis"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/779"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/779"
+LAST|P245|"actor/779"
+CREATE
+LAST|Len|"Intertechnique Instruments, Incorporated"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/780"
+LAST|P245|"actor/780"
+CREATE
+LAST|Len|"Gottfried Jaeger"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/781"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/781"
+LAST|P245|"actor/781"
+CREATE
+LAST|Len|"George J. Kafka"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/782"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/782"
+LAST|P245|"actor/782"
+CREATE
+LAST|Len|"Walter Kafka"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/783"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/783"
+LAST|P245|"actor/783"
+CREATE
+LAST|Len|"Continental Can Company"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/784"
+LAST|P245|"actor/784"
+CREATE
+LAST|Len|"Bernard Kahn"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/785"
+LAST|P245|"actor/785"
+CREATE
+LAST|Len|"Muriel Kaplan"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/786"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/786"
+LAST|P245|"actor/786"
+CREATE
+LAST|Len|"Irwin Feiner"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/787"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/787"
+LAST|P245|"actor/787"
+CREATE
+LAST|Len|"P. Feiner and Sons, Incorporated"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/788"
+LAST|P245|"actor/788"
+CREATE
+LAST|Len|"Kasoundra"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/789"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/789"
+LAST|P245|"actor/789"
+CREATE
+LAST|Len|"George Klauber"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/791"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/791"
+LAST|P245|"actor/791"
+CREATE
+LAST|Len|"Guillaume Sebastian  Vos"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/792"
+LAST|P245|"actor/792"
+CREATE
+LAST|Len|"Justin  Knowles"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/793"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/793"
+LAST|P245|"actor/793"
+CREATE
+LAST|Len|"Peter Chappell"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/794"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/794"
+LAST|P245|"actor/794"
+CREATE
+LAST|Len|"Speytec Limited"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/795"
+LAST|P245|"actor/795"
+CREATE
+LAST|Len|"Robert  Kragen"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/796"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/796"
+LAST|P245|"actor/796"
+CREATE
+LAST|Len|"Electromek Company"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/797"
+LAST|P245|"actor/797"
+CREATE
+LAST|Len|"Irv  Rosner"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/798"
+LAST|P245|"actor/798"
+CREATE
+LAST|Len|"Rosner Television Systems"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/799"
+LAST|P245|"actor/799"
+CREATE
+LAST|Len|"Irene  Krugman"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/800"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/800"
+LAST|P245|"actor/800"
+CREATE
+LAST|Len|"Ben F.  Laposky"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/801"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/801"
+LAST|P245|"actor/801"
+CREATE
+LAST|Len|"Norman  Larkin"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/802"
+LAST|P245|"actor/802"
+CREATE
+LAST|Len|"Jean-Jacques Rivard"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/803"
+LAST|P245|"actor/803"
+CREATE
+LAST|Len|"John  Bimshas"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/804"
+LAST|P245|"actor/804"
+CREATE
+LAST|Len|"MIT Instrumentation Laboratory (aka Charles Stark Draper Laboratory)"
+LAST|P1|Q19085
+LAST|Den|"laboratory"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/805"
+LAST|P245|"actor/805"
+CREATE
+LAST|Len|"David  Lawner"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/806"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/806"
+LAST|P245|"actor/806"
+CREATE
+LAST|Len|"Gary  Furgeson"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/807"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/807"
+LAST|P245|"actor/807"
+CREATE
+LAST|Len|"Pentone Corporation"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/808"
+LAST|P245|"actor/808"
+CREATE
+LAST|Len|"Marc  Lepage"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/809"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/809"
+LAST|P245|"actor/809"
+CREATE
+LAST|Len|"Roger  Carrigan"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/810"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/810"
+LAST|P245|"actor/810"
+CREATE
+LAST|Len|"Rhode Island Junior College"
+LAST|P1|Q1804
+LAST|Den|"university"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/811"
+LAST|P245|"actor/811"
+CREATE
+LAST|Len|"Guillaume  Leunens"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/812"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/812"
+LAST|P245|"actor/812"
+CREATE
+LAST|Len|"Mon  Levinson"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/813"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/813"
+LAST|P245|"actor/813"
+CREATE
+LAST|Len|"Kornblee Gallery"
+LAST|P1|Q19085
+LAST|Den|"gallery"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/814"
+LAST|P245|"actor/814"
+CREATE
+LAST|Len|"Charles  Livingstone"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/815"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/815"
+LAST|P245|"actor/815"
+CREATE
+LAST|Len|"Emil  Hammer"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/816"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/816"
+LAST|P245|"actor/816"
+CREATE
+LAST|Len|"John Lobell"
+LAST|P1|Q1
+LAST|Den|"architect"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q23416|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/817"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/817"
+LAST|P245|"actor/817"
+CREATE
+LAST|Len|"Hubert Wilke Consultants"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/818"
+LAST|P245|"actor/818"
+CREATE
+LAST|Len|"Lewandowski  Lois"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/819"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/819"
+LAST|P245|"actor/819"
+CREATE
+LAST|Len|"William Hayett"
+LAST|P1|Q1
+LAST|Den|"collectionneur"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/820"
+LAST|P245|"actor/820"
+CREATE
+LAST|Len|"Pedro  Lujan"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/821"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/821"
+LAST|P245|"actor/821"
+CREATE
+LAST|Len|"E. C.  Hyde"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/822"
+LAST|P245|"actor/822"
+CREATE
+LAST|Len|"Martyl"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/824"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/824"
+LAST|P245|"actor/824"
+CREATE
+LAST|Len|"Giselle  Mauer"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/825"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/825"
+LAST|P245|"actor/825"
+CREATE
+LAST|Len|"Ben-Am  Kadish"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/826"
+LAST|P245|"actor/826"
+CREATE
+LAST|Len|"Picatinny Arsenal"
+LAST|P1|Q19085
+LAST|Den|"laboratory"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/827"
+LAST|P245|"actor/827"
+CREATE
+LAST|Len|"Preston MccLanahan"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/828"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/828"
+LAST|P245|"actor/828"
+CREATE
+LAST|Len|"F. H.  Roberts"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/829"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/829"
+LAST|P245|"actor/829"
+CREATE
+LAST|Len|"Union Carbide and Carbon"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/830"
+LAST|P245|"actor/830"
+CREATE
+LAST|Len|"William Edward McGowin"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/831"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/831"
+LAST|P245|"actor/831"
+CREATE
+LAST|Len|"Victor Millonzi"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/832"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/832"
+LAST|P245|"actor/832"
+CREATE
+LAST|Len|"Edward  Samuels"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/833"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/833"
+LAST|P245|"actor/833"
+CREATE
+LAST|Len|"Tubelight engineering"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/834"
+LAST|P245|"actor/834"
+CREATE
+LAST|Len|"Agnes  Mills"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/835"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/835"
+LAST|P245|"actor/835"
+CREATE
+LAST|Len|"Michael C. Presnick"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/836"
+LAST|P245|"actor/836"
+CREATE
+LAST|Len|"Metatronics Manufacturing Company"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/837"
+LAST|P245|"actor/837"
+CREATE
+LAST|Len|"Verner  Molin"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/838"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/838"
+LAST|P245|"actor/838"
+CREATE
+LAST|Len|"Nitro Nobel AB"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/840"
+LAST|P245|"actor/840"
+CREATE
+LAST|Len|"Ralph K.  Morrill"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/841"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/841"
+LAST|P245|"actor/841"
+CREATE
+LAST|Len|"Norton  Wise"
+LAST|P1|Q1
+LAST|Den|"professor"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q23889|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/842"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/842"
+LAST|P245|"actor/842"
+CREATE
+LAST|Len|"Auburn University"
+LAST|P1|Q1804
+LAST|Den|"university"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/843"
+LAST|P245|"actor/843"
+CREATE
+LAST|Len|"Peter L.  Myer"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/844"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/844"
+LAST|P245|"actor/844"
+CREATE
+LAST|Len|"George  Wolffe"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/845"
+LAST|P245|"actor/845"
+CREATE
+LAST|Len|"Action Raceway"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/846"
+LAST|P245|"actor/846"
+CREATE
+LAST|Len|"Leah  Noland"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/847"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/847"
+LAST|P245|"actor/847"
+CREATE
+LAST|Len|"Duane Palyka"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/848"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/848"
+LAST|P245|"actor/848"
+CREATE
+LAST|Len|"Robin Parkinson"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/849"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/849"
+LAST|P245|"actor/849"
+CREATE
+LAST|Len|"Eric Martin"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/850"
+LAST|P245|"actor/850"
+CREATE
+LAST|Len|"Gianfranco  Pennisi"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/852"
+LAST|P245|"actor/852"
+CREATE
+LAST|Len|"Roberta Phillips"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/853"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/853"
+LAST|P245|"actor/853"
+CREATE
+LAST|Len|"Copthorne MacDonald"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/854"
+LAST|P245|"actor/854"
+CREATE
+LAST|Len|"Vidcom Electronics"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/855"
+LAST|P245|"actor/855"
+CREATE
+LAST|Len|"Pulsa"
+LAST|P1|Q19047
+LAST|Den|"artist collective"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/856"
+LAST|P245|"actor/856"
+CREATE
+LAST|Len|"John F. Puskas"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/857"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/857"
+LAST|P245|"actor/857"
+CREATE
+LAST|Len|"J. Reece Roth"
+LAST|P1|Q1
+LAST|Den|"physicist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/858"
+LAST|P245|"actor/858"
+CREATE
+LAST|Len|"Earl M. Reiback"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/859"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/859"
+LAST|P245|"actor/859"
+CREATE
+LAST|Len|"Fred Hertzfeld"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/860"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/860"
+LAST|P245|"actor/860"
+CREATE
+LAST|Len|"Ingeborg A. Richter"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/861"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/861"
+LAST|P245|"actor/861"
+CREATE
+LAST|Len|"George Quittner"
+LAST|P1|Q1
+LAST|Den|"researcher"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q24692|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/862"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/862"
+LAST|P245|"actor/862"
+CREATE
+LAST|Len|"API Instruments Company"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/863"
+LAST|P245|"actor/863"
+CREATE
+LAST|Len|"Raymond Ring"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/864"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/864"
+LAST|P245|"actor/864"
+CREATE
+LAST|Len|"Joel Katzen"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/865"
+LAST|P245|"actor/865"
+CREATE
+LAST|Len|"University of Pennsylvania (aka Penn or UPenn)"
+LAST|P1|Q1804
+LAST|Den|"university"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/866"
+LAST|P245|"actor/866"
+CREATE
+LAST|Len|"Alan Hayes"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/867"
+LAST|P245|"actor/867"
+CREATE
+LAST|Len|"University of New Hampshire"
+LAST|P1|Q1804
+LAST|Den|"university"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/868"
+LAST|P245|"actor/868"
+CREATE
+LAST|Len|"Francine Rochon"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/869"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/869"
+LAST|P245|"actor/869"
+CREATE
+LAST|Len|"Eugen Roth"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/870"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/870"
+LAST|P245|"actor/870"
+CREATE
+LAST|Len|"Bela Sandor"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/871"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/871"
+LAST|P245|"actor/871"
+CREATE
+LAST|Len|"Joseph  Scala"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/872"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/872"
+LAST|P245|"actor/872"
+CREATE
+LAST|Len|"Susan Hanauer"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/873"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/873"
+LAST|P245|"actor/873"
+CREATE
+LAST|Len|"Ira W. Schwartz"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/875"
+LAST|P245|"actor/875"
+CREATE
+LAST|Len|"Sy Wassyng"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/876"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/876"
+LAST|P245|"actor/876"
+CREATE
+LAST|Len|"Schwartz-Wassyng, Incorporated"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/877"
+LAST|P245|"actor/877"
+CREATE
+LAST|Len|"Charles A. Vance"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/878"
+LAST|P245|"actor/878"
+CREATE
+LAST|Len|"Saminex Export"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/879"
+LAST|P245|"actor/879"
+CREATE
+LAST|Len|"Joan H. Koslan  Schwartz"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/880"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/880"
+LAST|P245|"actor/880"
+CREATE
+LAST|Len|"Benjamin L. Schwartz"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/881"
+LAST|P245|"actor/881"
+CREATE
+LAST|Len|"Mitre Corporation"
+LAST|P1|Q19085
+LAST|Den|"laboratory"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/882"
+LAST|P245|"actor/882"
+CREATE
+LAST|Len|"Lillian Schwartz"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/883"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/883"
+LAST|P245|"actor/883"
+CREATE
+LAST|Len|"Johan  Severtson"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/884"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/884"
+LAST|P245|"actor/884"
+CREATE
+LAST|Len|"G. Putman  Barber"
+LAST|P1|Q1
+LAST|Den|"sociologist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/885"
+LAST|P245|"actor/885"
+CREATE
+LAST|Len|"University of Massachusetts"
+LAST|P1|Q1804
+LAST|Den|"university"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/886"
+LAST|P245|"actor/886"
+CREATE
+LAST|Len|"Harriet  Casdin-Silver"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/887"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/887"
+LAST|P245|"actor/887"
+CREATE
+LAST|Len|"Alyce Simon"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/888"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/888"
+LAST|P245|"actor/888"
+CREATE
+LAST|Len|"Kennard H. Morganstern"
+LAST|P1|Q1
+LAST|Den|"researcher physicist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/889"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/889"
+LAST|P245|"actor/889"
+CREATE
+LAST|Len|"Radiation Dynamics, Incorporated"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/890"
+LAST|P245|"actor/890"
+CREATE
+LAST|Len|"Scotty Snyder"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/891"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/891"
+LAST|P245|"actor/891"
+CREATE
+LAST|Len|"Jerry Spivack"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/892"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/892"
+LAST|P245|"actor/892"
+CREATE
+LAST|Len|"Clard Svenson"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/893"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/893"
+LAST|P245|"actor/893"
+CREATE
+LAST|Len|"Larry Lard"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/894"
+LAST|P245|"actor/894"
+CREATE
+LAST|Len|"Charles Tafra"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/895"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/895"
+LAST|P245|"actor/895"
+CREATE
+LAST|Len|"Joshua Friedman"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/896"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/896"
+LAST|P245|"actor/896"
+CREATE
+LAST|Len|"Aldo Tambellini"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/897"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/897"
+LAST|P245|"actor/897"
+CREATE
+LAST|Len|"Kenneth Wise"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/898"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/898"
+LAST|P245|"actor/898"
+CREATE
+LAST|Len|"Videoflight, Incorporated"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/899"
+LAST|P245|"actor/899"
+CREATE
+LAST|Len|"Tania"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/900"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/900"
+LAST|P245|"actor/900"
+CREATE
+LAST|Len|"Daniel J. Smoley"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/901"
+LAST|P245|"actor/901"
+CREATE
+LAST|Len|"Jean Toche"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/902"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/902"
+LAST|P245|"actor/902"
+CREATE
+LAST|Len|"Gerd Seegers"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/903"
+LAST|P245|"actor/903"
+CREATE
+LAST|Len|"Wen-Ying Tsai"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/904"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/904"
+LAST|P245|"actor/904"
+CREATE
+LAST|Len|"Western Union"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/905"
+LAST|P245|"actor/905"
+CREATE
+LAST|Len|"Günther Uecker"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/906"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/906"
+LAST|P245|"actor/906"
+CREATE
+LAST|Len|"James Umland"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/907"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/907"
+LAST|P245|"actor/907"
+CREATE
+LAST|Len|"Kenji Usami"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/908"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/908"
+LAST|P245|"actor/908"
+CREATE
+LAST|Len|"USCO"
+LAST|P1|Q19047
+LAST|Den|"artist and engineer collective"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/909"
+LAST|P245|"actor/909"
+CREATE
+LAST|Len|"Bernard Venet"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/910"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/910"
+LAST|P245|"actor/910"
+CREATE
+LAST|Len|"Michael Venezia"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/911"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/911"
+LAST|P245|"actor/911"
+CREATE
+LAST|Len|"Roger Vilder"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/912"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/912"
+LAST|P245|"actor/912"
+CREATE
+LAST|Len|"David Melamed"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/913"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/913"
+LAST|P245|"actor/913"
+CREATE
+LAST|Len|"Rodan Equipment Repair"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/914"
+LAST|P245|"actor/914"
+CREATE
+LAST|Len|"Carolyn Walther"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/915"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/915"
+LAST|P245|"actor/915"
+CREATE
+LAST|Len|"Michael Paluska"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/916"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/916"
+LAST|P245|"actor/916"
+CREATE
+LAST|Len|"National Cash Register Company"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/917"
+LAST|P245|"actor/917"
+CREATE
+LAST|Len|"Theodore Watkin"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/918"
+LAST|P245|"actor/918"
+CREATE
+LAST|Len|"Jack Weisberg"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/919"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/919"
+LAST|P245|"actor/919"
+CREATE
+LAST|Len|"Norman T. White"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/920"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/920"
+LAST|P245|"actor/920"
+CREATE
+LAST|Len|"Charles J. Grandmaison"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/921"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/921"
+LAST|P245|"actor/921"
+CREATE
+LAST|Len|"Sprague Electric Company"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/922"
+LAST|P245|"actor/922"
+CREATE
+LAST|Len|"Iain Whitecross"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/923"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/923"
+LAST|P245|"actor/923"
+CREATE
+LAST|Len|"Theodore Wolff"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/924"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/924"
+LAST|P245|"actor/924"
+CREATE
+LAST|Len|"N.Y.U. Medical Center"
+LAST|P1|Q19085
+LAST|Den|"hospital"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/925"
+LAST|P245|"actor/925"
+CREATE
+LAST|Len|"Forbes Whiteside"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/926"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/926"
+LAST|P245|"actor/926"
+CREATE
+LAST|Len|"Stanley Elliot"
+LAST|P1|Q1
+LAST|Den|"consultant chemist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/927"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/927"
+LAST|P245|"actor/927"
+CREATE
+LAST|Len|"Robert Wiegand"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/928"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/928"
+LAST|P245|"actor/928"
+CREATE
+LAST|Len|"Lloyd Kreuzer"
+LAST|P1|Q1
+LAST|Den|"physicist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/929"
+LAST|P245|"actor/929"
+CREATE
+LAST|Len|"Board of Directors of Experiments in Art and Technology"
+LAST|P1|Q19047
+LAST|Den|"board"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/930"
+LAST|P245|"actor/930"
+CREATE
+LAST|Len|"Officers of Experiments in Art and Technology"
+LAST|P1|Q19047
+LAST|Den|"board"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/931"
+LAST|P245|"actor/931"
+CREATE
+LAST|Len|"Directors of Experiments in Art and Technology"
+LAST|P1|Q19047
+LAST|Den|"board"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/932"
+LAST|P245|"actor/932"
+CREATE
+LAST|Len|"Fortune Magazine"
+LAST|P1|Q21676
+LAST|Den|"magazine"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/934"
+LAST|P245|"actor/934"
+CREATE
+LAST|Len|"American Federation of Musicians"
+LAST|P1|Q19049
+LAST|Den|"labour union"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/935"
+LAST|P245|"actor/935"
+CREATE
+LAST|Len|"Center for Advanced Visual Studies"
+LAST|P1|Q1804
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/936"
+LAST|P245|"actor/936"
+CREATE
+LAST|Len|"American Telephone and Telegraph Company (aka AT&T Corp.)"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/937"
+LAST|P245|"actor/937"
+CREATE
+LAST|Len|"Lepercq, de Neuflize & Co."
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/938"
+LAST|P245|"actor/938"
+CREATE
+LAST|Len|"Steuben Glass"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/939"
+LAST|P245|"actor/939"
+CREATE
+LAST|Len|"The Behavioral Research Laboratory"
+LAST|P1|Q19085
+LAST|Den|"laboratory"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/940"
+LAST|P245|"actor/940"
+CREATE
+LAST|Len|"Trans-Lux Corporation"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/941"
+LAST|P245|"actor/941"
+CREATE
+LAST|Len|"United States Senate"
+LAST|P1|Q1804
+LAST|Den|"institution"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/942"
+LAST|P245|"actor/942"
+CREATE
+LAST|Len|"American Federation of Labor and Congress of Industrial Organizations (AFL-CIO)"
+LAST|P1|Q19049
+LAST|Den|"labour union"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/943"
+LAST|P245|"actor/943"
+CREATE
+LAST|Len|"Research, Communication Sciences Division"
+LAST|P1|Q19085
+LAST|Den|"laboratory"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/945"
+LAST|P245|"actor/945"
+CREATE
+LAST|Len|"Bantam Press"
+LAST|P1|Q21676
+LAST|Den|"company publisher"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/947"
+LAST|P245|"actor/947"
+CREATE
+LAST|Len|"Celanese Corporation"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/948"
+LAST|P245|"actor/948"
+CREATE
+LAST|Len|"Herman E. Cooper"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/949"
+LAST|P245|"actor/949"
+CREATE
+LAST|Len|"Dreyfus Corporation (aka Dreyfus Fund, Incorporated)"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/950"
+LAST|P245|"actor/950"
+CREATE
+LAST|Len|"Fischbach Gallery"
+LAST|P1|Q19085
+LAST|Den|"gallery"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/951"
+LAST|P245|"actor/951"
+CREATE
+LAST|Len|"Local One Amalgamated, Lithographers of America"
+LAST|P1|Q19049
+LAST|Den|"labour union"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/952"
+LAST|P245|"actor/952"
+CREATE
+LAST|Len|"Max's Kansas City"
+LAST|P1|Q19085
+LAST|Den|"restaurant"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/953"
+LAST|P245|"actor/953"
+CREATE
+LAST|Len|"Paramount Printing Company"
+LAST|P1|Q19085
+LAST|Den|"company"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/954"
+LAST|P245|"actor/954"
+CREATE
+LAST|Len|"Marion Javits"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/955"
+LAST|P245|"actor/955"
+CREATE
+LAST|Len|"James F. O'Brien"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/956"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/956"
+LAST|P245|"actor/956"
+CREATE
+LAST|Len|"Jaan A. Loger"
+LAST|P1|Q1
+LAST|Den|"engineer"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19081|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/957"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/957"
+LAST|P245|"actor/957"
+CREATE
+LAST|Len|"Wilder Green"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/958"
+LAST|P245|"actor/958"
+CREATE
+LAST|Len|"Jennifer Licht"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/959"
+LAST|P245|"actor/959"
+CREATE
+LAST|Len|"Elizabeth Shaw"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/960"
+LAST|P245|"actor/960"
+CREATE
+LAST|Len|"Jean Edith Weiffenbach"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/961"
+LAST|P245|"actor/961"
+CREATE
+LAST|Len|"Joan Weiggins"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/962"
+LAST|P245|"actor/962"
+CREATE
+LAST|Len|"David Saltonstall"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/963"
+LAST|P245|"actor/963"
+CREATE
+LAST|Len|"Florence Beller"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/964"
+LAST|P245|"actor/964"
+CREATE
+LAST|Len|"Barbara Lasalle"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/965"
+LAST|P245|"actor/965"
+CREATE
+LAST|Len|"Sally Mchale"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/966"
+LAST|P245|"actor/966"
+CREATE
+LAST|Len|"Robert Hayden"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/967"
+LAST|P245|"actor/967"
+CREATE
+LAST|Len|"Donelson Hoopes"
+LAST|P1|Q1
+LAST|Den|"curator"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q24406|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/968"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/968"
+LAST|P245|"actor/968"
+CREATE
+LAST|Len|"Charles Smith"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/969"
+LAST|P245|"actor/969"
+CREATE
+LAST|Len|"Peter Jannace"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/970"
+LAST|P245|"actor/970"
+CREATE
+LAST|Len|"Leo Murphy"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/971"
+LAST|P245|"actor/971"
+CREATE
+LAST|Len|"Dominic Blasi"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/972"
+LAST|P245|"actor/972"
+CREATE
+LAST|Len|"Harry Cohen"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/973"
+LAST|P245|"actor/973"
+CREATE
+LAST|Len|"Joker Newton"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/974"
+LAST|P245|"actor/974"
+CREATE
+LAST|Len|"Marianne Barcellona"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/975"
+LAST|P245|"actor/975"
+CREATE
+LAST|Len|"Bob Brennan"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/976"
+LAST|P245|"actor/976"
+CREATE
+LAST|Len|"Scot Gardiner"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/977"
+LAST|P245|"actor/977"
+CREATE
+LAST|Len|"Barry Green"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/978"
+LAST|P245|"actor/978"
+CREATE
+LAST|Len|"Alexander Kasuba"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/980"
+LAST|P245|"actor/980"
+CREATE
+LAST|Len|"Michael Robbins"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/981"
+LAST|P245|"actor/981"
+CREATE
+LAST|Len|"William Schwartz"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/982"
+LAST|P245|"actor/982"
+CREATE
+LAST|Len|"Becky Young"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/983"
+LAST|P245|"actor/983"
+CREATE
+LAST|Len|"Bob Spiegel"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/984"
+LAST|P245|"actor/984"
+CREATE
+LAST|Len|"Laurie Glasgow"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/985"
+LAST|P245|"actor/985"
+CREATE
+LAST|Len|"Lorinda Cherry"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/986"
+LAST|P245|"actor/986"
+CREATE
+LAST|Len|"Betty Humphreys"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/987"
+LAST|P245|"actor/987"
+CREATE
+LAST|Len|"Redmond Press"
+LAST|P1|Q21676
+LAST|Den|"publisher"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/988"
+LAST|P245|"actor/988"
+CREATE
+LAST|Len|"Jim Norris"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/989"
+LAST|P245|"actor/989"
+CREATE
+LAST|Len|"Susan Brockman"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/990"
+LAST|P245|"actor/990"
+CREATE
+LAST|Len|"Mel Bochner"
+LAST|P1|Q1
+LAST|Den|"artist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q19157|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/991"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/991"
+LAST|P245|"actor/991"
+CREATE
+LAST|Len|"John Brundo"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/992"
+LAST|P245|"actor/992"
+CREATE
+LAST|Len|"Claudio Badal"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/993"
+LAST|P245|"actor/993"
+CREATE
+LAST|Len|"Susan Edgerton"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/994"
+LAST|P245|"actor/994"
+CREATE
+LAST|Len|"Jean-Jacques Erlichman"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/995"
+LAST|P245|"actor/995"
+CREATE
+LAST|Len|"Terry Martin"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/996"
+LAST|P245|"actor/996"
+CREATE
+LAST|Len|"Susan Munshower"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/997"
+LAST|P245|"actor/997"
+CREATE
+LAST|Len|"Tamara Vidos"
+LAST|P1|Q1
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/998"
+LAST|P245|"actor/998"
+CREATE
+LAST|Len|"G.R. Swenson"
+LAST|P1|Q1
+LAST|Den|"art critic journalist"
+LAST|P11|Q27735
+LAST|P11|Q19104
+LAST|P44|Q20540|S114|"https://eat_datascape.medialab.sciences-po.fr/actor/999"
+LAST|P2|"https://eat_datascape.medialab.sciences-po.fr/actor/999"
+LAST|P245|"actor/999"

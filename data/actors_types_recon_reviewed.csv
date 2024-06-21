@@ -1,0 +1,771 @@
+BASE QID,id,name,type,instanceOfLabel,instanceOf,occupationP44,description
+,502,Anonym,anonym,,,,anonym
+,607,Kenzo Tange,architect,person,Q1,Q23416,architect
+,817,John Lobell,architect,person,Q1,Q23416,architect
+,579,Aktionsforum Praterinsel,art center,institution,Q1804,,art center
+,652,Andrew Forge,art critic,person,Q1,Q20540,art critic
+,657,Siegfried Albrecht,art critic,person,Q1,Q20540,art critic
+,999,G.R. Swenson,art critic journalist,person,Q1,Q20540,art critic journalist
+,603,Kenneth Clark,art historian,person,Q1,,art historian
+,606,Meyer Shapiro,art historian,person,Q1,,art historian
+,12,Kiyoshi Awazu,artist,person,Q1,Q19157,artist
+,58,Chris Dawson,artist,person,Q1,Q19157,artist
+,62,Walter De Maria,artist,person,Q1,Q19157,artist
+,86,Jacquelyn Farrell,artist,person,Q1,Q19157,artist
+,112,Ann Halprin,artist,person,Q1,Q19157,artist
+,116,Harry Harper,artist,person,Q1,Q19157,artist
+,118,John Harris,artist,person,Q1,Q19157,artist
+,130,Takumi Hijikata,artist,person,Q1,Q19157,artist
+,137,Tony Holder,artist,person,Q1,Q19157,artist
+,151,Dennis Johnson,artist,person,Q1,Q19157,artist
+,198,Lynn Lonidier,artist,person,Q1,Q19157,artist
+,199,Denny Lord,artist,person,Q1,Q19157,artist
+,200,Alvin Lucier,artist,person,Q1,Q19157,artist
+,201,Mary Lucier,artist,person,Q1,Q19157,artist
+,211,Anthony Martin,artist,person,Q1,Q19157,artist
+,231,Rikuro Miyai,artist,person,Q1,Q19157,artist
+,237,Norma Muller,artist,person,Q1,Q19157,artist
+,238,Paul Muller,artist,person,Q1,Q19157,artist
+,262,Pauline Oliveros,artist,person,Q1,Q19157,artist
+,269,Peter Pearce,artist,person,Q1,Q19157,artist
+,270,Rudy Perez,artist,person,Q1,Q19157,artist
+,314,Robert Schuler,artist,person,Q1,Q19157,artist
+,341,Gerd Stern,artist,person,Q1,Q19157,artist
+,351,Yuji Takahashi,artist,person,Q1,Q19157,artist
+,360,Shuji Terayama,artist,person,Q1,Q19157,artist
+,365,Yoshio Tsukio,artist,person,Q1,Q19157,artist
+,396,Masanobu Yoshimura,artist,person,Q1,Q19157,artist
+,600,Jackson Mac Low,artist,person,Q1,Q19157,artist
+,654,Kathy Baker,artist,person,Q1,Q19157,artist
+,658,Kurd Alsleben,artist,person,Q1,Q19157,artist
+,660,John Anthes,artist,person,Q1,Q19157,artist
+,662,Mary Ashley,artist,person,Q1,Q19157,artist
+,665,Gertrude  Barnstone,artist,person,Q1,Q19157,artist
+,670,Rachel Bas-Cohain,artist,person,Q1,Q19157,artist
+,673,Mary Bean,artist,person,Q1,Q19157,artist
+,676,John Benedict,artist,person,Q1,Q19157,artist
+,681,Mary Guyer Berg,artist,person,Q1,Q19157,artist
+,683,Sheila Berkley,artist,person,Q1,Q19157,artist
+,686,Jose Bermudez,artist,person,Q1,Q19157,artist
+,687,Geny Dignac,artist,person,Q1,Q19157,artist
+,691,Adrienne Bordes,artist,person,Q1,Q19157,artist
+,696,George B. Bush,artist,person,Q1,Q19157,artist
+,699,Jackie Cassen,artist,person,Q1,Q19157,artist
+,700,Rudi Stern,artist,person,Q1,Q19157,artist
+,703,Samuel Chaikofsky,artist,person,Q1,Q19157,artist
+,704,David Chapin,artist,person,Q1,Q19157,artist
+,707,Sheldon Cohen,artist,person,Q1,Q19157,artist
+,708,Franck J. Costa,artist,person,Q1,Q19157,artist
+,712,Arturo Cuetara,artist,person,Q1,Q19157,artist
+,715,Walter Delaney,artist,person,Q1,Q19157,artist
+,717,Royce Dendler,artist,person,Q1,Q19157,artist
+,718,Arthur Dodge,artist,person,Q1,Q19157,artist
+,720,Juan Downey,artist,person,Q1,Q19157,artist
+,723,Robert James  Downing,artist,person,Q1,Q19157,artist
+,728,Don Edson,artist,person,Q1,Q19157,artist
+,731,Claire Falkenstein,artist,person,Q1,Q19157,artist
+,734,Carl Fernbach-Flarsheim,artist,person,Q1,Q19157,artist
+,737,Virginio  Ferrari,artist,person,Q1,Q19157,artist
+,740,John  Fowski,artist,person,Q1,Q19157,artist
+,743,Ronald Fox,artist,person,Q1,Q19157,artist
+,746,Richard Fraenkel,artist,person,Q1,Q19157,artist
+,749,Ruth Francken,artist,person,Q1,Q19157,artist
+,750,Edward  Franklin,artist,person,Q1,Q19157,artist
+,753,Charlotte  Gilbertson,artist,person,Q1,Q19157,artist
+,754,Eugene R.  Gladston,artist,person,Q1,Q19157,artist
+,755,Michael  Goldberg,artist,person,Q1,Q19157,artist
+,756,William  Hadfield,artist,person,Q1,Q19157,artist
+,759,Amy  Hamouda,artist,person,Q1,Q19157,artist
+,760,Albert  Hamowy,artist,person,Q1,Q19157,artist
+,763,Robert Harlow,artist,person,Q1,Q19157,artist
+,764,Hilary Harris,artist,person,Q1,Q19157,artist
+,770,Mike Hinge,artist,person,Q1,Q19157,artist
+,771,Arthur  Hoener,artist,person,Q1,Q19157,artist
+,775,Yukihisa Isobe,artist,person,Q1,Q19157,artist
+,781,Gottfried Jaeger,artist,person,Q1,Q19157,artist
+,782,George J. Kafka,artist,person,Q1,Q19157,artist
+,786,Muriel Kaplan,artist,person,Q1,Q19157,artist
+,789,Kasoundra,artist,person,Q1,Q19157,artist
+,791,George Klauber,artist,person,Q1,Q19157,artist
+,793,Justin  Knowles,artist,person,Q1,Q19157,artist
+,796,Robert  Kragen,artist,person,Q1,Q19157,artist
+,800,Irene  Krugman,artist,person,Q1,Q19157,artist
+,801,Ben F.  Laposky,artist,person,Q1,Q19157,artist
+,806,David  Lawner,artist,person,Q1,Q19157,artist
+,809,Marc  Lepage,artist,person,Q1,Q19157,artist
+,812,Guillaume  Leunens,artist,person,Q1,Q19157,artist
+,813,Mon  Levinson,artist,person,Q1,Q19157,artist
+,815,Charles  Livingstone,artist,person,Q1,Q19157,artist
+,819,Lewandowski  Lois,artist,person,Q1,Q19157,artist
+,821,Pedro  Lujan,artist,person,Q1,Q19157,artist
+,824,Martyl,artist,person,Q1,Q19157,artist
+,825,Giselle  Mauer,artist,person,Q1,Q19157,artist
+,828,Preston MccLanahan,artist,person,Q1,Q19157,artist
+,831,William Edward McGowin,artist,person,Q1,Q19157,artist
+,832,Victor Millonzi,artist,person,Q1,Q19157,artist
+,835,Agnes  Mills,artist,person,Q1,Q19157,artist
+,838,Verner  Molin,artist,person,Q1,Q19157,artist
+,841,Ralph K.  Morrill,artist,person,Q1,Q19157,artist
+,844,Peter L.  Myer,artist,person,Q1,Q19157,artist
+,847,Leah  Noland,artist,person,Q1,Q19157,artist
+,848,Duane Palyka,artist,person,Q1,Q19157,artist
+,849,Robin Parkinson,artist,person,Q1,Q19157,artist
+,853,Roberta Phillips,artist,person,Q1,Q19157,artist
+,857,John F. Puskas,artist,person,Q1,Q19157,artist
+,859,Earl M. Reiback,artist,person,Q1,Q19157,artist
+,861,Ingeborg A. Richter,artist,person,Q1,Q19157,artist
+,864,Raymond Ring,artist,person,Q1,Q19157,artist
+,869,Francine Rochon,artist,person,Q1,Q19157,artist
+,870,Eugen Roth,artist,person,Q1,Q19157,artist
+,871,Bela Sandor,artist,person,Q1,Q19157,artist
+,872,Joseph  Scala,artist,person,Q1,Q19157,artist
+,880,Joan H. Koslan  Schwartz,artist,person,Q1,Q19157,artist
+,883,Lillian Schwartz,artist,person,Q1,Q19157,artist
+,884,Johan  Severtson,artist,person,Q1,Q19157,artist
+,887,Harriet  Casdin-Silver,artist,person,Q1,Q19157,artist
+,888,Alyce Simon,artist,person,Q1,Q19157,artist
+,891,Scotty Snyder,artist,person,Q1,Q19157,artist
+,892,Jerry Spivack,artist,person,Q1,Q19157,artist
+,893,Clard Svenson,artist,person,Q1,Q19157,artist
+,895,Charles Tafra,artist,person,Q1,Q19157,artist
+,897,Aldo Tambellini,artist,person,Q1,Q19157,artist
+,900,Tania,artist,person,Q1,Q19157,artist
+,902,Jean Toche,artist,person,Q1,Q19157,artist
+,904,Wen-Ying Tsai,artist,person,Q1,Q19157,artist
+,906,Günther Uecker,artist,person,Q1,Q19157,artist
+,907,James Umland,artist,person,Q1,Q19157,artist
+,908,Kenji Usami,artist,person,Q1,Q19157,artist
+,910,Bernard Venet,artist,person,Q1,Q19157,artist
+,911,Michael Venezia,artist,person,Q1,Q19157,artist
+,912,Roger Vilder,artist,person,Q1,Q19157,artist
+,915,Carolyn Walther,artist,person,Q1,Q19157,artist
+,919,Jack Weisberg,artist,person,Q1,Q19157,artist
+,920,Norman T. White,artist,person,Q1,Q19157,artist
+,923,Iain Whitecross,artist,person,Q1,Q19157,artist
+,926,Forbes Whiteside,artist,person,Q1,Q19157,artist
+,928,Robert Wiegand,artist,person,Q1,Q19157,artist
+,956,James F. O'Brien,artist,person,Q1,Q19157,artist
+,991,Mel Bochner,artist,person,Q1,Q19157,artist
+,909,USCO,artist and engineer collective,group,Q19047,,artist and engineer collective
+,774,Intersystems,artist collective,group,Q19047,,artist collective
+,856,Pulsa,artist collective,group,Q19047,,artist collective
+,92,John Forkner,artist engineer,person,Q1,Q19081|Q19157,artist engineer
+,171,Kenneth C. Knowlton,artist engineer,person,Q1,Q19081|Q19157,artist engineer
+,769,John Hassell,artist engineer,person,Q1,Q19081|Q19157,artist engineer
+,121,Susan Hartnett,assistant,person,Q1,,assistant
+,642,Council of Agents of Experiments in Art and Technology,board,group,Q19047,,board
+,930,Board of Directors of Experiments in Art and Technology,board,group,Q19047,,board
+,931,Officers of Experiments in Art and Technology,board,group,Q19047,,board
+,932,Directors of Experiments in Art and Technology,board,group,Q19047,,board
+,820,William Hayett,collectionneur,person,Q1,,collectionneur
+Q21350,458,"PepsiCo, Inc. (aka Pepsi Cola Company)",company,business,Q19085,,company
+,613,Takenaka Komuten,company,business,Q19085,,company
+,664,Miracol Incorporated,company,business,Q19085,,company
+,667,Southwestern Plastics,company,business,Q19085,,company
+,680,Carry Instruments,company,business,Q19085,,company
+,685,National Transparent Manufacturing Company,company,business,Q19085,,company
+,689,"International Technology, Incorporated",company,business,Q19085,,company
+,711,Automatic Switch Company,company,business,Q19085,,company
+,722,Booz Allen Applied Research,company,business,Q19085,,company
+,725,Ultra Scale Models Inc.,company,business,Q19085,,company
+,726,Systems Management Corporation,company,business,Q19085,,company
+,727,"ehn Graphics, Incorporated",company,business,Q19085,,company
+,730,Ford Instrument Company,company,business,Q19085,,company
+,733,"Electro Optical Systems, Incorporated",company,business,Q19085,,company
+,742,Perkins Elmer Company,company,business,Q19085,,company
+,745,Gulf General Atomic,company,business,Q19085,,company
+,762,American Electric Power Company,company,business,Q19085,,company
+,773,Raytheon Company,company,business,Q19085,,company
+,780,"Intertechnique Instruments, Incorporated",company,business,Q19085,,company
+,784,Continental Can Company,company,business,Q19085,,company
+,788,"P. Feiner and Sons, Incorporated",company,business,Q19085,,company
+,795,Speytec Limited,company,business,Q19085,,company
+,797,Electromek Company,company,business,Q19085,,company
+,799,Rosner Television Systems,company,business,Q19085,,company
+,808,Pentone Corporation,company,business,Q19085,,company
+,818,Hubert Wilke Consultants,company,business,Q19085,,company
+,830,Union Carbide and Carbon,company,business,Q19085,,company
+,834,Tubelight engineering,company,business,Q19085,,company
+,837,Metatronics Manufacturing Company,company,business,Q19085,,company
+,840,Nitro Nobel AB,company,business,Q19085,,company
+,846,Action Raceway,company,business,Q19085,,company
+,855,Vidcom Electronics,company,business,Q19085,,company
+,863,API Instruments Company,company,business,Q19085,,company
+,877,"Schwartz-Wassyng, Incorporated",company,business,Q19085,,company
+,879,Saminex Export,company,business,Q19085,,company
+,890,"Radiation Dynamics, Incorporated",company,business,Q19085,,company
+,899,"Videoflight, Incorporated",company,business,Q19085,,company
+,905,Western Union,company,business,Q19085,,company
+,914,Rodan Equipment Repair,company,business,Q19085,,company
+,917,National Cash Register Company,company,business,Q19085,,company
+,922,Sprague Electric Company,company,business,Q19085,,company
+,937,American Telephone and Telegraph Company (aka AT&T Corp.),company,business,Q19085,,company
+,938,"Lepercq, de Neuflize & Co.",company,business,Q19085,,company
+,939,Steuben Glass,company,business,Q19085,,company
+,941,Trans-Lux Corporation,company,business,Q19085,,company
+,948,Celanese Corporation,company,business,Q19085,,company
+,950,"Dreyfus Corporation (aka Dreyfus Fund, Incorporated)",company,business,Q19085,,company
+,954,Paramount Printing Company,company,business,Q19085,,company
+,426,"Environ Electronic Labs, Inc.",company laboratory,business,Q19085,,company laboratory
+,693,Ionic Research Laboratories,company laboratory,business,Q19085,,company laboratory
+,706,RCA Laboratories,company laboratory,business,Q19085,,company laboratory
+,739,Argone National Laboratories,company laboratory,business,Q19085,,company laboratory
+,947,Bantam Press,company publisher,publisher,Q21676,,company publisher
+,751,Gary  Rieveschl,consultant,person,Q1,,consultant
+,927,Stanley Elliot,consultant chemist,person,Q1,Q19081,consultant chemist
+,968,Donelson Hoopes,curator,person,Q1,Q24406,curator
+,140,Pontus Hulten,curator manager,person,Q1,Q24406,curator manager
+,81,Beverly Emmons,designer,person,Q1,,designer
+,15,F. Bailey,engineer,person,Q1,Q19081,engineer
+,43,Robert Cheney,engineer,person,Q1,Q19081,engineer
+,68,Ted Dillenkofer,engineer,person,Q1,Q19081,engineer
+,77,Kazukuki Eguchi,engineer,person,Q1,Q19081,engineer
+,83,Thomas Fabry,engineer,person,Q1,Q19081,engineer
+,89,Toby Fitch,engineer,person,Q1,Q19081,engineer
+,96,Mariko Fujii,engineer,person,Q1,Q19081,engineer
+,97,Ikuo Fujita,engineer,person,Q1,Q19081,engineer
+,117,Cyril Harris,engineer,person,Q1,Q19081,engineer
+,134,James Hobart,engineer,person,Q1,Q19081,engineer
+,141,Thomas Huseby,engineer,person,Q1,Q19081,engineer
+,145,Khalil Issa,engineer,person,Q1,Q19081,engineer
+,148,Carson Jeffries,engineer,person,Q1,Q19081,engineer
+,149,James Jiusto,engineer,person,Q1,Q19081,engineer
+,158,Toyohisa Kamei,engineer,person,Q1,Q19081,engineer
+,168,Robert V. Kieronski,engineer,person,Q1,Q19081,engineer
+,178,Peter Kubik,engineer,person,Q1,Q19081,engineer
+,183,Fumio Kuwahara,engineer,person,Q1,Q19081,engineer
+,194,Robert Lippman,engineer,person,Q1,Q19081,engineer
+,205,Yutaka Maeda,engineer,person,Q1,Q19081,engineer
+,214,Kiyoshi Masuda,engineer,person,Q1,Q19081,engineer
+,215,Mizuho Masuda,engineer,person,Q1,Q19081,engineer
+,227,Yoshiaki Mihara,engineer,person,Q1,Q19081,engineer
+,229,Y. Mitsuda,engineer,person,Q1,Q19081,engineer
+,230,Yasushi Mitsuta,engineer,person,Q1,Q19081,engineer
+,244,Koichi Nagai,engineer,person,Q1,Q19081,engineer
+,257,Minoru Oda,engineer,person,Q1,Q19081,engineer
+,259,Nobuyuki Oku,engineer,person,Q1,Q19081,engineer
+,260,Junosuke Okuyama,engineer,person,Q1,Q19081,engineer
+,266,John W. Pan,engineer,person,Q1,Q19081,engineer
+,277,Marlowe Pichel,engineer,person,Q1,Q19081,engineer
+,293,Robby Robinson,engineer,person,Q1,Q19081,engineer
+,307,Skip Savard,engineer,person,Q1,Q19081,engineer
+,322,Hitoshi Shimada,engineer,person,Q1,Q19081,engineer
+,323,Kimio Shimada,engineer,person,Q1,Q19081,engineer
+,326,Lawrence Silverstein,engineer,person,Q1,Q19081,engineer
+,329,Boris Sojka,engineer,person,Q1,Q19081,engineer
+,335,Gunnar Spons,engineer,person,Q1,Q19081,engineer
+,337,Alan Stanton,engineer,person,Q1,Q19081,engineer
+,338,Karl Steck,engineer,person,Q1,Q19081,engineer
+,352,Kazuaki Takayama,engineer,person,Q1,Q19081,engineer
+,356,Yoshikazu Tanaka,engineer,person,Q1,Q19081,engineer
+,370,Morihiko Ueda,engineer,person,Q1,Q19081,engineer
+,388,Robert Wilson,engineer,person,Q1,Q19081,engineer
+,391,Gosta Wolin,engineer,person,Q1,Q19081,engineer
+,394,Morion Wurtele,engineer,person,Q1,Q19081,engineer
+,520,F.H. Winslow,engineer,person,Q1,Q19081,engineer
+,522,Martha Turi,engineer,person,Q1,Q19081,engineer
+,524,J.W. Sellers,engineer,person,Q1,Q19081,engineer
+,525,Parke Schaeffer,engineer,person,Q1,Q19081,engineer
+,526,Norman Nelson,engineer,person,Q1,Q19081,engineer
+,541,Frank T. Turner,engineer,person,Q1,Q19081,engineer
+,650,Paul Girard,engineer,person,Q1,Q19081,engineer
+,656,Paul E. Stephens,engineer,person,Q1,Q19081,engineer
+,666,Dan Bloxum,engineer,person,Q1,Q19081,engineer
+,668,Joseph L. Goldman,engineer,person,Q1,Q19081,engineer
+,674,William S. Bean,engineer,person,Q1,Q19081,engineer
+,677,John Newton,engineer,person,Q1,Q19081,engineer
+,688,Hernan I. Otano,engineer,person,Q1,Q19081,engineer
+,690,Richard E. Martin,engineer,person,Q1,Q19081,engineer
+,692,Benjamin Koenig,engineer,person,Q1,Q19081,engineer
+,695,Robert Fox,engineer,person,Q1,Q19081,engineer
+,697,Lawrence J. Viernstein,engineer,person,Q1,Q19081,engineer
+,701,Edwin Hodder,engineer,person,Q1,Q19081,engineer
+,705,Jacques Pankove,engineer,person,Q1,Q19081,engineer
+,709,Tilo Samter,engineer,person,Q1,Q19081,engineer
+,710,Roger Doering,engineer,person,Q1,Q19081,engineer
+,716,Peter Wilde,engineer,person,Q1,Q19081,engineer
+,729,Olive Freud,engineer,person,Q1,Q19081,engineer
+,744,E. R. Hagen,engineer,person,Q1,Q19081,engineer
+,761,Howard H. Oldenburg,engineer,person,Q1,Q19081,engineer
+,765,James Macaulay,engineer,person,Q1,Q19081,engineer
+,772,Leon  Wilde,engineer,person,Q1,Q19081,engineer
+,776,Masanori Oe,engineer,person,Q1,Q19081,engineer
+,779,James  Calonis,engineer,person,Q1,Q19081,engineer
+,783,Walter Kafka,engineer,person,Q1,Q19081,engineer
+,787,Irwin Feiner,engineer,person,Q1,Q19081,engineer
+,794,Peter Chappell,engineer,person,Q1,Q19081,engineer
+,807,Gary  Furgeson,engineer,person,Q1,Q19081,engineer
+,810,Roger  Carrigan,engineer,person,Q1,Q19081,engineer
+,816,Emil  Hammer,engineer,person,Q1,Q19081,engineer
+,829,F. H.  Roberts,engineer,person,Q1,Q19081,engineer
+,833,Edward  Samuels,engineer,person,Q1,Q19081,engineer
+,860,Fred Hertzfeld,engineer,person,Q1,Q19081,engineer
+,873,Susan Hanauer,engineer,person,Q1,Q19081,engineer
+,876,Sy Wassyng,engineer,person,Q1,Q19081,engineer
+,896,Joshua Friedman,engineer,person,Q1,Q19081,engineer
+,898,Kenneth Wise,engineer,person,Q1,Q19081,engineer
+,913,David Melamed,engineer,person,Q1,Q19081,engineer
+,916,Michael Paluska,engineer,person,Q1,Q19081,engineer
+,921,Charles J. Grandmaison,engineer,person,Q1,Q19081,engineer
+,924,Theodore Wolff,engineer,person,Q1,Q19081,engineer
+,957,Jaan A. Loger,engineer,person,Q1,Q19081,engineer
+,472,The American Foundation for Automation and Employment,foundation,organization,Q19049,,foundation
+,436,Leo Castelli Gallery,gallery,business,Q19085,,gallery
+,575,Martha Jackson Gallery,gallery,business,Q19085,,gallery
+,768,Howard Wise Gallery,gallery,business,Q19085,,gallery
+,814,Kornblee Gallery,gallery,business,Q19085,,gallery
+,951,Fischbach Gallery,gallery,business,Q19085,,gallery
+,445,Mont Sinai Hospital,hospital,business,Q19085,,hospital
+,925,N.Y.U. Medical Center,hospital,business,Q19085,,hospital
+,614,"Pepsi-Cola (Japan), Ltd.",industry,business,Q19085,,industry
+,736,Franklin Institute,institution,institution,Q1804,,institution
+,942,United States Senate,institution,institution,Q1804,,institution
+,407,Bell Telephone Laboratories,laboratory,business,Q19085,,laboratory
+,415,Coherent Radiation Laboratories,laboratory,business,Q19085,,laboratory
+,446,Mount Sinai Laboratory,laboratory,business,Q19085,,laboratory
+,503,Mont Sinai Laboratory for Technical Information,laboratory,business,Q19085,,laboratory
+,596,Hunter Assoc. Labs Inc.,laboratory,business,Q19085,,laboratory
+,758,Western Electric Engineering Research Center,laboratory,business,Q19085,,laboratory
+,805,MIT Instrumentation Laboratory (aka Charles Stark Draper Laboratory),laboratory,business,Q19085,,laboratory
+,827,Picatinny Arsenal,laboratory,business,Q19085,,laboratory
+,882,Mitre Corporation,laboratory,business,Q19085,,laboratory
+,940,The Behavioral Research Laboratory,laboratory,business,Q19085,,laboratory
+,945,"Research, Communication Sciences Division",laboratory,business,Q19085,,laboratory
+,425,"Envirolab, University of California, Los Angeles",laboratory university,institution,Q1804,,laboratory university
+,464,"Seismological Laboratory, University of Nevada",laboratory university,institution,Q1804,,laboratory university
+,485,U.C.L.A. Space Biology Laboratory,laboratory university,institution,Q1804,,laboratory university
+,935,American Federation of Musicians,labour union,organization,Q19049,,labour union
+,943,American Federation of Labor and Congress of Industrial Organizations (AFL-CIO),labour union,organization,Q19049,,labour union
+,952,"Local One Amalgamated, Lithographers of America",labour union,organization,Q19049,,labour union
+,934,Fortune Magazine,magazine,publisher,Q21676,,magazine
+,543,Thomas Buechner,manager,person,Q1,,manager
+,622,Ronald Hobbs,manager,person,Q1,,manager
+,623,Tom Slater,manager,person,Q1,,manager
+,645,Richard P. Brandt,manager,person,Q1,,manager
+,684,Graydon Cairl,manager,person,Q1,,manager
+,735,Robert M. Goodman,manager,person,Q1,,manager
+,519,John Pierce,manager engineer,person,Q1,,manager engineer
+,752,John  Brookes,metallurgist,person,Q1,,metallurgist
+,413,Musée national d'art moderne / Centre de création industrielle,museum,museum,Q19103,,museum
+,447,"Museum Ludwig, Koln",museum,museum,Q19103,,museum
+,448,The Museum of Modern Art (MoMA),museum,museum,Q19103,,museum
+,578,Musée d'Art Moderne de la Ville de Paris,museum,museum,Q19103,,museum
+,580,"The Menil Collection, Contemporary Arts Museum",museum,museum,Q19103,,museum
+,581,Guggenheim Museum Bilbao,museum,museum,Q19103,,museum
+,582,Carré d'Art,museum,museum,Q19103,,museum
+,583,"Museum of Contemporary Art, Tokyo",museum,museum,Q19103,,museum
+,629,San Francisco Museum of Modern Art,museum,museum,Q19103,,museum
+,653,Photographer unknown,photographer,person,Q1,Q20538,photographer
+,732,Irving  Weiman,physicist,person,Q1,,physicist
+,738,Teodoro  Halpern,physicist,person,Q1,,physicist
+,858,J. Reece Roth,physicist,person,Q1,,physicist
+,929,Lloyd Kreuzer,physicist,person,Q1,,physicist
+,601,Chester Bowles,politician,person,Q1,,politician
+,605,Alva Myrdal,politician sociologist,person,Q1,,politician sociologist
+,521,P. Bruins,professor,person,Q1,Q23889,professor
+,682,Howard Berg,professor,person,Q1,Q23889,professor
+,842,Norton  Wise,professor,person,Q1,Q23889,professor
+,988,Redmond Press,publisher,publisher,Q21676,,publisher
+,533,Dean Judd,researcher,person,Q1,Q24692,researcher
+,659,Cord Passow,researcher,person,Q1,Q24692,researcher
+,757,Alfred  Heinz,researcher,person,Q1,Q24692,researcher
+,862,George Quittner,researcher,person,Q1,Q24692,researcher
+,655,Howard J. Sloane,researcher engineer,person,Q1,Q24692|Q19081,researcher engineer
+,661,Tracy S. Kinsel,researcher engineer,person,Q1,Q24692|Q19081,researcher engineer
+,671,Alan Litke,researcher engineer,person,Q1,Q24692|Q19081,researcher engineer
+,889,Kennard H. Morganstern,researcher physicist,person,Q1,Q19081,researcher physicist
+,534,Jerome Ysroael Lettvin,researcher professor,person,Q1,Q24692|Q23889,researcher professor
+,602,Noam Chomsky,researcher professor,person,Q1,Q24692|Q23889,researcher professor
+,608,Jerome Wiesner,researcher professor,person,Q1,Q24692|Q23889,researcher professor
+,766,Fred Stern,researcher professor,person,Q1,Q24692|Q23889,researcher professor
+,115,Leon D. Harmon,researcher professor engineer,person,Q1,Q19081|Q24692|Q23889,researcher professor engineer
+,953,Max's Kansas City,restaurant,business,Q19085,,restaurant
+,678,Stevens Institute of Technology,school,institution,Q1804,,school
+,885,G. Putman  Barber,sociologist,person,Q1,,sociologist
+,557,Baroda University,university,institution,Q1804,,university
+Q25517,597,"Teachers College, Columbia University",university,institution,Q1804,,university
+,599,Yale University,university,institution,Q1804,,university
+,628,"University of St. Thomas, Houston",university,institution,Q1804,,university
+Q24540,672,Harvard University,university,institution,Q1804,,university
+,679,Pennsylvania State University (aka Penn State or PSU),university,institution,Q1804,,university
+,698,John Hopkins University,university,institution,Q1804,,university
+,748,University of Chicago,university,institution,Q1804,,university
+Q19101,767,Pratt Institute,university,institution,Q1804,,university
+,811,Rhode Island Junior College,university,institution,Q1804,,university
+,843,Auburn University,university,institution,Q1804,,university
+,866,University of Pennsylvania (aka Penn or UPenn),university,institution,Q1804,,university
+,868,University of New Hampshire,university,institution,Q1804,,university
+,886,University of Massachusetts,university,institution,Q1804,,university
+,0,Carl Adams,,person,Q1,,
+,1,Edward Adams,,person,Q1,,
+,3,Tadanori Akiyama,,person,Q1,,
+,4,Melynda Albrecht,,person,Q1,,
+,7,Stephen Antonakos,,person,Q1,,
+,9,T. Asada,,person,Q1,,
+,11,Michel Auder,,person,Q1,,
+,13,Teruo Baba,,person,Q1,,
+,14,Karen Bacon,,person,Q1,,
+,18,Bo Beck,,person,Q1,,
+,21,Joseph Block,,person,Q1,,
+,22,Bruce Blugerman,,person,Q1,,
+,23,Lee Bontecou,,person,Q1,,
+,24,George Brecht,,person,Q1,,
+,28,Herbert Brill,,person,Q1,,
+,29,Sy Brockway,,person,Q1,,
+,37,George Carr,,person,Q1,,
+,40,John Chamberlain,,person,Q1,,
+,41,Chandralekha,,person,Q1,,
+,45,Mimi Clementi,,person,Q1,,
+,47,Richard Collins,,person,Q1,,
+,48,Ralph Cooper,,person,Q1,,
+,49,Robert Cox,,person,Q1,,
+,50,Robert Creeley,,person,Q1,,
+,55,David Davis,,person,Q1,,
+,56,Jeff Davis,,person,Q1,,
+,59,Emile De Antonio,,person,Q1,,
+,60,Harriet DeLong,,person,Q1,,
+,63,Richard Demierre,,person,Q1,,
+,64,Cronin Dermott,,person,Q1,,
+,65,Carlos De Sola,,person,Q1,,
+,67,Kaaba Dijon,,person,Q1,,
+,70,Mark Di Suvero,,person,Q1,,
+,71,Tadashi Doi,,person,Q1,,
+,73,Julie Doty,,person,Q1,,
+,75,Régis Durand,,person,Q1,,
+,76,George Edwards,,person,Q1,,
+,80,Lewis Ellmore,,person,Q1,,
+,82,Roger Epworth,,person,Q1,,
+,87,Roger Ferragallo,,person,Q1,,
+,88,Bill Finley,,person,Q1,,
+,94,Hollis Frampton,,person,Q1,,
+,95,Karl Erik Friberg,,person,Q1,,
+,98,Tsutomu Fujiwara,,person,Q1,,
+,100,Walter Gelb,,person,Q1,,
+,108,Alphonsus Grant,,person,Q1,,
+,109,Nancy Graves,,person,Q1,,
+,113,Takeshi Hanasaka,,person,Q1,,
+,114,Jim Hardy,,person,Q1,,
+,122,Paul Hasigawa,,person,Q1,,
+,125,Richard Haymes,,person,Q1,,
+,131,Yoshiyuki Hijikata,,person,Q1,,
+,132,Sebastian Hiraga,,person,Q1,,
+,135,Ralph Hocking,,person,Q1,,
+,138,Terrie Holland,,person,Q1,,
+,139,Cassandra Hughs,,person,Q1,,
+,142,Harris Hyman,,person,Q1,,
+,144,Philip Idone,,person,Q1,,
+,152,Joan Jonas,,person,Q1,,
+,153,Howard Jones,,person,Q1,,
+,154,Elizabeth Joyce,,person,Q1,,
+,157,Nancy Kahan,,person,Q1,,
+,162,Perry Keats,,person,Q1,,
+,164,Robert Kelly,,person,Q1,,
+,165,Donald M. Kendall,,person,Q1,,
+,166,? Kender,,person,Q1,,
+,172,Asahi Kogyo,,person,Q1,,
+,173,Etsuji Komoguchi,,person,Q1,,
+,175,Jane Kramer,,person,Q1,,
+,179,Tatsuo Kubo,,person,Q1,,
+,180,Penelope Kullaway,,person,Q1,,
+,181,Hideo Kuraishi,,person,Q1,,
+,184,Frank La Haye,,person,Q1,,
+,186,Stanley Landsman,,person,Q1,,
+,188,Anne-Olivia Le Cornec,,person,Q1,,
+,191,Sol LeWitt,,person,Q1,,
+,197,Norma Loewen,,person,Q1,,
+,202,Len Lye,,person,Q1,,
+,207,Gloria Malerba,,person,Q1,,
+,208,Ellen Marcus,,person,Q1,,
+,209,Marisol,,person,Q1,,
+,210,Agnes Martin,,person,Q1,,
+,213,Petrie Mason,,person,Q1,,
+,218,Ravi Matthai,,person,Q1,,
+,219,Robert McFarland,,person,Q1,,
+,221,Lys McLaughlin,,person,Q1,,
+,224,Boyd Mefferd,,person,Q1,,
+,225,Robert Merkle,,person,Q1,,
+,226,Theodore Michel,,person,Q1,,
+,232,K. Mizumoto,,person,Q1,,
+,234,Robert Moog,,person,Q1,,
+,235,Russell Mooney,,person,Q1,,
+,236,Robert Morris,,person,Q1,,
+,239,Robert Mulreany,,person,Q1,,
+,243,Yvette Nachmias,,person,Q1,,
+,245,Kyoko Nagai,,person,Q1,,
+,246,Yasunori Nakajima,,person,Q1,,
+,247,Takeshi Nakamura,,person,Q1,,
+,249,Sakako Nakaya,,person,Q1,,
+,251,"Michael Netter, Michael",,person,Q1,,
+,252,"Louise Nevelson, Louise",,person,Q1,,
+,253,Marcia Newfield,,person,Q1,,
+,254,Fujio Nishikawa,,person,Q1,,
+,255,Kenneth Noland,,person,Q1,,
+,256,David Novros,,person,Q1,,
+,258,Ann Ohlmacher,,person,Q1,,
+,264,Alfred Pacquement,,person,Q1,,
+,271,Alain Peron,,person,Q1,,
+,272,Herbert Perr,,person,Q1,,
+,273,Gunter Perry,,person,Q1,,
+,278,Hala Pietkiewicz,,person,Q1,,
+,280,Brigid Polk,,person,Q1,,
+,282,Thalia Poons,,person,Q1,,
+,283,Alan Pottasch,,person,Q1,,
+,285,Charles Quigley,,person,Q1,,
+,292,Larry Rivers,,person,Q1,,
+,295,Tonie Roos,,person,Q1,,
+,297,Charles Ross,,person,Q1,,
+,302,Phyllis Santis,,person,Q1,,
+,303,Mana Sarabhai,,person,Q1,,
+,306,Robert Savage,,person,Q1,,
+,308,Karl Schenzer,,person,Q1,,
+,312,Carlota Schoolman,,person,Q1,,
+,316,James Seawright,,person,Q1,,
+,318,Phyllis Selzer,,person,Q1,,
+,320,Jacquelyn D. Serwer,,person,Q1,,
+,321,Toni Shfrazi,,person,Q1,,
+,324,Hiromi Shiratori,,person,Q1,,
+,325,Harry Shunk,,person,Q1,,
+,327,Joseph Slater,,person,Q1,,
+,328,Michael Snow,,person,Q1,,
+,331,Keith Sonnier,,person,Q1,,
+,333,Raphaël Sorin,,person,Q1,,
+,334,Marvin Spindler,,person,Q1,,
+,336,Stan Stanciewicz,,person,Q1,,
+,342,Merlin Stone,,person,Q1,,
+,344,Rosemary Stroer,,person,Q1,,
+,345,Michael Strumpf,,person,Q1,,
+,346,David Stuart,,person,Q1,,
+,350,Makiya Takagi,,person,Q1,,
+,353,Renichi Takenaka,,person,Q1,,
+,355,Yasuharu Tamiya,,person,Q1,,
+,357,Euchi Taniyama,,person,Q1,,
+,358,Malinda Teel,,person,Q1,,
+,367,Richard Tum Seden,,person,Q1,,
+,368,Cy Twombly,,person,Q1,,
+,369,Jack Tworkov,,person,Q1,,
+,373,Sylvie Vog,,person,Q1,,
+,376,Alexander Warren,,person,Q1,,
+,377,Peter Warren,,person,Q1,,
+,378,Robert Watts,,person,Q1,,
+,380,John Wesley,,person,Q1,,
+,384,David Whitney,,person,Q1,,
+,386,Jim Wilkinson,,person,Q1,,
+,392,David Woodbridge,,person,Q1,,
+,400,Nicholas Zettlemoyer,,person,Q1,,
+,401,"Academy for Educational Development, Guatemala",,institution,Q1804,,
+,402,Amul Dairy Cooperative,,organization,Q19049,,
+,403,Andy Warhol Museum,,museum,Q19103,,
+,404,Annual Avant Garde Festivals,,organization,Q19049,,
+,405,A.S.P.C.A.,,organization,Q19049,,
+,406,Bell and Howell Co.,,business,Q19085,,
+,408,"B.K. Smith Gallery, Lake Erie College, Painesville, Ohio",,business,Q19085,,
+,409,"Block Engineering, Inc.",,business,Q19085,,
+,410,Brooklyn Academy of Music,,institution,Q1804,,
+,412,Capintec Nuclear,,business,Q19085,,
+Q19486,414,City of New York,,organization,Q19049,,
+,416,"Columbia Sound, Inc.",,business,Q19085,,
+,417,E.A.T. India,,organization,Q19049,,
+,418,E.A.T. Japan,,organization,Q19049,,
+,419,"E.A.T. local group in Detroit, Michigan",,organization,Q19049,,
+,420,"E.A.T. local group in Los Angeles, California",,organization,Q19049,,
+,421,"E.A.T. local group In Portland, Oregon",,organization,Q19049,,
+,422,"E.A.T. local group in San Francisco, California",,organization,Q19049,,
+,423,E.A.T. Local Groups,,organization,Q19049,,
+,424,Electronic Enclosure Corp.,,organization,Q19049,,
+,428,Folkways Records and Service Corp.,,organization,Q19049,,
+,429,FRAC Bourgogne,,organization,Q19049,,
+,430,G.T. Schjeldahl Co.,,business,Q19085,,
+,431,"Howard J. Rubenstein Associates, Inc.",,business,Q19085,,
+,432,Industrial Timer,,business,Q19085,,
+,433,Institute of Art and Urban Resources,,institution,Q1804,,
+,434,J. M. Kaplan Fund,,organization,Q19049,,
+,437,Luchow's Restaurant,,business,Q19085,,
+,438,Lucinda Childs Dance Foundation,,organization,Q19049,,
+,439,Marineland of Florida,,organization,Q19049,,
+,440,McCordi Corp.,,business,Q19085,,
+,441,Mee Industries,,business,Q19085,,
+,443,"Ministry of Education, El Salvador",,institution,Q1804,,
+,449,The National Aeronautics and Space Administration (NASA),,institution,Q1804,,
+,452,National Institute of Mental Health,,institution,Q1804,,
+,455,Ninon Columbia,,business,Q19085,,
+,456,Nippon Glass Co.,,business,Q19085,,
+,459,Pichel Industries,,business,Q19085,,
+,460,Polytechnic Institute of New York,,institution,Q1804,,
+,461,Raven Industries,,business,Q19085,,
+,462,Rockefeller Foundation,,organization,Q19049,,
+,463,Schweber Electronics,,business,Q19085,,
+,465,Sloan Commission on Cable Communications,,business,Q19085,,
+,467,"Sony Buiding, Tokyo",,business,Q19085,,
+,469,Stockholm International Film Festival,,organization,Q19049,,
+,470,T.E.A.C.,,organization,Q19049,,
+,471,Teledyne,,organization,Q19049,,
+,473,The Arkville Erpf Fund,,organization,Q19049,,
+,474,The Black Mountain College,,institution,Q1804,,
+Q25527,475,The Cooper Union for the Advancement of Science and Art,,institution,Q1804,,
+,476,The Indian Atomic Energy Commission,,institution,Q1804,,
+,477,The Kitchen,,organization,Q19049,,
+,478,The New York Times,,business,Q19085,,
+,479,The Sisler Foundation,,organization,Q19049,,
+,480,The Sonic Arts Union,,organization,Q19049,,
+,481,The United Nations International School,,institution,Q1804,,
+,482,Toshiba Electric Co.,,business,Q19085,,
+,484,Tsutsunaka Plastic Co.,,business,Q19085,,
+,486,"Uniroyal, Inc.",,business,Q19085,,
+,487,United Nations Development Program,,institution,Q1804,,
+,488,United States Agency for International Development's,,institution,Q1804,,
+,489,U.S. Naval Oceanographic Office,,institution,Q1804,,
+,490,V.l.T.E.C. Corp.,,business,Q19085,,
+,491,Westinghouse Corporation Defense & Electronic Systems Center,,organization,Q19049,,
+,492,Whale Fund of the New York Zoological Society,,organization,Q19049,,
+,493,Zoological Society,,organization,Q19049,,
+,494,The Museum of Modern Art Fireman,,museum,Q19103,,
+,495,The night-watchmen at the Museum of Modern Art,,museum,Q19103,,
+,496,The Museum of Modern Art Workmen,,museum,Q19103,,
+,497,The Paris-Match Correspondant,,person,Q1,,
+,498,A Museum of Modern Art Photographer,,person,Q1,Q20538,
+,499,Meredith Morse,,person,Q1,,
+,500,Norddeutscher Rundfunk Hamburg,,business,Q19085,,
+,504,Ford Aerospace,,business,Q19085,,
+,505,a group of 500 people gathered together for Rauschenberg's Open Score,,group,Q19047,,
+,506,"WBAI-NYC, New York, USA",,organization,Q19049,,
+,507,Anthony Tadona,,person,Q1,,
+,508,Logan Hargrave,,person,Q1,,
+,509,Robert Coops,,person,Q1,,
+,510,Richard Deaver,,person,Q1,,
+,511,Edward Dziedzic,,person,Q1,,
+,512,Lee Huber,,person,Q1,,
+,513,Mark Salas,,person,Q1,,
+,514,Bates Lowry,,person,Q1,,
+,523,Louis Kellum,,person,Q1,,
+,527,R. Baecker,,person,Q1,,
+,528,J. Tonndorf,,person,Q1,,
+,529,Edward. S. Seeley,,person,Q1,,
+,530,H. Bohnert,,person,Q1,,
+,531,Seymour Papert,,person,Q1,,
+,532,Ralph Evans,,person,Q1,,
+,535,B. Hunter,,person,Q1,,
+,536,R. Feller,,person,Q1,,
+,538,William R. Bennett,,person,Q1,,
+,540,Ralph Martel,,person,Q1,,
+,542,Amy Martin,,person,Q1,,
+,544,Lawrence Silvenstein,,person,Q1,,
+,546,The Anand Dairy Cooperative,,organization,Q19049,,
+,547,D. Berkman,,person,Q1,,
+,548,E.V. Chitnis,,person,Q1,,
+,549,P. K. Garg,,person,Q1,,
+,550,K.S. Karnik,,person,Q1,,
+,551,Bhavaraju Sarveswara Rao,,person,Q1,,
+,552,N. Maccoby,,person,Q1,,
+,553,K. B. Shah,,person,Q1,,
+,554,The John D. Rockefeller III Fund,,institution,Q1804,,
+,555,Anne Riley,,person,Q1,,
+,556,Nora Cross,,person,Q1,,
+,558,Pandit  Pran Nath,,person,Q1,,
+,559,Barry Kaplan,,person,Q1,,
+,560,Brearley School,,institution,Q1804,,
+,561,Children's Community Workshop School,,institution,Q1804,,
+,562,Good Neighbor Tutorial Program,,organization,Q19049,,
+,563,Horace Mann School,,institution,Q1804,,
+,564,Intermediate School No. 201,,institution,Q1804,,
+,565,Little Red School House,,institution,Q1804,,
+,566,Northside Center for Child Development,,institution,Q1804,,
+,567,Public School No. 19,,institution,Q1804,,
+,568,Saint Ann's School,,institution,Q1804,,
+,569,United Nations Schools,,institution,Q1804,,
+,570,"We Care, a community group in Harlem",,institution,Q1804,,
+,571,Kobayashi Hakudo,,person,Q1,,
+,572,Yuji Morioka,,person,Q1,,
+,574,Sào Schlumberger,,person,Q1,,
+,576,Dorothy Seckler,,person,Q1,,
+,584,Gustafson,,organization,Q19049,,
+,585,Polytechnic Institute of Brooklyn,,institution,Q1804,,
+,586,Paterson Parchment Paper Co,,business,Q19085,,
+,587,Union Camp Co.,,business,Q19085,,
+,588,E.A.T. Staff,,group,Q19047,,
+,589,Allstate Communications Company,,business,Q19085,,
+,590,Just Plastics Company,,business,Q19085,,
+Q19322,592,IBM,,business,Q19085,,
+,593,M.I.T. Science Camp,,institution,Q1804,,
+,594,Eastman-Kodak,,business,Q19085,,
+,595,Carnegie Mellon Institute,,institution,Q1804,,
+,598,National Bureau of Standards,,institution,Q1804,,
+,609,Nihon Columbia,,person,Q1,,
+,610,Kanto Denki,,person,Q1,,
+,611,The Joint Venture Group,,business,Q19085,,
+,612,Mitsui Kansetsu,,person,Q1,,
+,626,Chuck Ross,,person,Q1,,
+,627,Malinda Peel,,person,Q1,,
+,630,Melynda Abrecht,,person,Q1,,
+,633,Oliver Selfridge,,person,Q1,,
+,647,Jack Masey,,person,Q1,,
+,663,John Mirageas,,person,Q1,,
+,669,Institute for Storm Research,,institution,Q1804,,
+,675,U.S. Air Force Systems Program,,institution,Q1804,,
+,702,Hubert Wilkie Communications Affiliates,,organization,Q19049,,
+,721,Fred Pitts,,person,Q1,,
+,724,David Johnston,,person,Q1,,
+,741,Walter Fowski,,person,Q1,,
+,747,Jeffrey  Raskin,,person,Q1,,
+,777,Studio M2,,organization,Q19049,,
+,785,Bernard Kahn,,person,Q1,,
+,792,Guillaume Sebastian  Vos,,person,Q1,,
+,798,Irv  Rosner,,person,Q1,,
+,802,Norman  Larkin,,person,Q1,,
+,803,Jean-Jacques Rivard,,person,Q1,,
+,804,John  Bimshas,,person,Q1,,
+,822,E. C.  Hyde,,person,Q1,,
+,826,Ben-Am  Kadish,,person,Q1,,
+,836,Michael C. Presnick,,person,Q1,,
+,845,George  Wolffe,,person,Q1,,
+,850,Eric Martin,,person,Q1,,
+,852,Gianfranco  Pennisi,,person,Q1,,
+,854,Copthorne MacDonald,,person,Q1,,
+,865,Joel Katzen,,person,Q1,,
+,867,Alan Hayes,,person,Q1,,
+,875,Ira W. Schwartz,,person,Q1,,
+,878,Charles A. Vance,,person,Q1,,
+,881,Benjamin L. Schwartz,,person,Q1,,
+,894,Larry Lard,,person,Q1,,
+,901,Daniel J. Smoley,,person,Q1,,
+,903,Gerd Seegers,,person,Q1,,
+,918,Theodore Watkin,,person,Q1,,
+,936,Center for Advanced Visual Studies,,institution,Q1804,,
+,949,Herman E. Cooper,,person,Q1,,
+,955,Marion Javits,,person,Q1,,
+,958,Wilder Green,,person,Q1,,
+,959,Jennifer Licht,,person,Q1,,
+,960,Elizabeth Shaw,,person,Q1,,
+,961,Jean Edith Weiffenbach,,person,Q1,,
+,962,Joan Weiggins,,person,Q1,,
+,963,David Saltonstall,,person,Q1,,
+,964,Florence Beller,,person,Q1,,
+,965,Barbara Lasalle,,person,Q1,,
+,966,Sally Mchale,,person,Q1,,
+,967,Robert Hayden,,person,Q1,,
+,969,Charles Smith,,person,Q1,,
+,970,Peter Jannace,,person,Q1,,
+,971,Leo Murphy,,person,Q1,,
+,972,Dominic Blasi,,person,Q1,,
+,973,Harry Cohen,,person,Q1,,
+,974,Joker Newton,,person,Q1,,
+,975,Marianne Barcellona,,person,Q1,,
+,976,Bob Brennan,,person,Q1,,
+,977,Scot Gardiner,,person,Q1,,
+,978,Barry Green,,person,Q1,,
+,980,Alexander Kasuba,,person,Q1,,
+,981,Michael Robbins,,person,Q1,,
+,982,William Schwartz,,person,Q1,,
+,983,Becky Young,,person,Q1,,
+,984,Bob Spiegel,,person,Q1,,
+,985,Laurie Glasgow,,person,Q1,,
+,986,Lorinda Cherry,,person,Q1,,
+,987,Betty Humphreys,,person,Q1,,
+,989,Jim Norris,,person,Q1,,
+,990,Susan Brockman,,person,Q1,,
+,992,John Brundo,,person,Q1,,
+,993,Claudio Badal,,person,Q1,,
+,994,Susan Edgerton,,person,Q1,,
+,995,Jean-Jacques Erlichman,,person,Q1,,
+,996,Terry Martin,,person,Q1,,
+,997,Susan Munshower,,person,Q1,,
+,998,Tamara Vidos,,person,Q1,,
